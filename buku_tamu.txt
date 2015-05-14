@@ -4,17 +4,17 @@
 # - Dilarang untuk menghapus data yang sudah ada
 # - Format penulisannya seperti berikut:
 # 
-#   Entry : [Tulis angka, tambah 1 dari angka entry di atas anda]
-#   Nama : [Opsional]
-#   CodeSaya : [wajib, masukkan username anda di CodeSaya]
-#   Github : [wajib, masukkan username anda di Github]
+#   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
+#   Nama: [Opsional]
+#   CodeSaya: [wajib, masukkan username anda di CodeSaya]
+#   Github: [wajib, masukkan username anda di Github]
 #
 # - Jika anda tidak mengikuti perintah, pull request anda tidak diapprove
 #   dan anda dianggap tidak bisa mengerjakan soal
 # - Berikan satu baris kosong untuk setiap entry-nya
 #
 
-Entry : 1
-Nama : Ganis
+Entry: 1
+Nama: Ganis
 CodeSaya: ganis
 Github: ganiszulfa
