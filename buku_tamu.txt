@@ -1,0 +1,17 @@
+## Buku Tamu
+#
+# - Ubah file ini dengan menambahkan data diri anda di akhir file
+# - Dilarang untuk menghapus data yang sudah ada
+# - Format penulisannya seperti berikut:
+#   Entry : [Tulis angka, tambah 1 dari angka entry di atas anda]
+#   Nama : [Opsional]
+#   CodeSaya username : [wajib]
+#   Github username : [wajib]
+# - Jika anda tidak mengikuti perintah, pull request anda tidak diapprove
+#   dan anda dianggap tidak bisa mengerjakan soal
+#
+
+Entry : 1
+Nama : Ganis
+CodeSaya: ganis
+github: ganiszulfa
