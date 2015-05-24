@@ -13,7 +13,7 @@
 #
 # - Jika anda tidak mengikuti perintah, pull request anda tidak diapprove
 #   dan anda dianggap tidak bisa mengerjakan soal
-# - Berikan satu baris kosong untuk setiap entry-nya
+# - Berikan satu baris kosong untuk setelah setiap entry-nya
 #
 
 Entry: 1
@@ -22,3 +22,5 @@ Github: ganiszulfa
 Nama: Ganis
 Website: http://ganiseu.wordpress.com/
 Pesan: Bagaimana pengalaman belajar Git di Codesaya? Komentar, saran, dan ide sangat dinantikan. Terimakasih.
+
+Entry: 
