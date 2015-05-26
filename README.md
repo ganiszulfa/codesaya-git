@@ -1,5 +1,5 @@
 # codesaya-git
-Repository for Git class in http://CodeSaya.com
+Repository for Git class in http://CodeSaya.com/
 
 **Next section is written in Bahasa Indonesia**
 
