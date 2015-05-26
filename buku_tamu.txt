@@ -11,9 +11,8 @@
 #   Website: [Opsional]
 #   Pesan: [Opsional]
 #
-# - Jika anda tidak mengikuti perintah, pull request anda tidak diapprove
-#   dan anda dianggap tidak bisa mengerjakan soal
 # - Berikan satu baris kosong setelah setiap entry-nya
+# - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
 #
 
 Entry: 1
