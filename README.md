@@ -11,6 +11,4 @@ Repositori (repo) ini akan menjadi objek untuk pembelajaran anda. Step-step yang
 
 *masih kosong*
 
-Jika ada pertanyaan, bisa sampaikan di http://codesaya.com/diskusi/git/
-
 -CodeSaya
