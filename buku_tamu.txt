@@ -29,4 +29,11 @@ Nama: Januri
 Website: http://www.situstarget.com/
 Pesan: Asik seru fun interaktif, kalo bisa ditambah lagi fitur-fiturnya entah apapun itu, ya semoga admin ganis tidak sibuk untuk menambahkan materi lain, gimana kalo dibuatkan juga sertifikat lulus materi? kaya setelah menyelesaikan Hour of Code lalu dapet sertifikat yang atas nama sendiri untuk disimpan dalam jpeg atau pdf. Terimakasih.
 
+Entry: 1
+CodeSaya: syamcode
+Github: syamcode
+Nama: -
+Website: -
+Pesan: -
+
 Entry: 
