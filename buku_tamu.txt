@@ -36,4 +36,9 @@ Nama: -
 Website: -
 Pesan: -
 
-Entry: 
+Entry: 4
+CodeSaya: anefirman
+Github: anefirman
+Nama: Ane Firman
+Website: www.anefirman.com
+Pesan: Kreatif banget , semoga banyak fitur baru
