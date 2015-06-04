@@ -64,4 +64,9 @@ Nama: Ronald
 Website: garisbumi.com
 Pesan: Go, Open Source Indonesia!
 
-Entry: 
+Entry: 8
+CodeSaya: succi23
+Github: succi23
+Nama: Suci Sukawana
+Website: succi-23.blogspot.com
+Pesan: I Love Programming
