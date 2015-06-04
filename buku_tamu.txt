@@ -56,3 +56,12 @@ Github: irmanfrm
 Nama: Irman Firmansyah
 Website: -
 Pesan: keren nih, maju terus CodeSaya
+
+Entry: 7
+CodeSaya: codecreativ
+Github: codecreativ
+Nama: Ronald
+Website: garisbumi.com
+Pesan: Go, Open Source Indonesia!
+
+Entry: 
