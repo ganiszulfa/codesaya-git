@@ -36,4 +36,11 @@ Nama: -
 Website: -
 Pesan: -
 
-Entry: 
+Entry: 4
+Codesaya: jkprasaja
+Github: jkprasaja
+Nama: Jaka
+website:
+Pesan:Belajar Git mengalami kebingungan, sebaiknya dikasih intruksi untuk berpindah dari git terminal ke text editor! Else is fun.
+
+Entry:
