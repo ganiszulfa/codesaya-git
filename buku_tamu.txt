@@ -70,3 +70,10 @@ Github: succi23
 Nama: Suci Sukawana
 Website: succi-23.blogspot.com
 Pesan: I Love Programming
+
+Entry: 9
+Codesaya: jkprasaja
+Github: jkprasaja
+Nama: Jaka
+Website: 
+Pesan: Belajar Git di Codesaya menyenangkan dan mudah.
