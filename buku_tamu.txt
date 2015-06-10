@@ -77,3 +77,10 @@ Github: jkprasaja
 Nama: Jaka
 Website: 
 Pesan: Belajar Git di Codesaya menyenangkan dan mudah.
+
+Entry: 10
+CodeSaya: ebta
+Github: ebta
+Nama: Ebta Setiawan
+Website: http://ebsoft.web.id
+Pesan: Sipp.. lanjutkan, berbagi ilmu yg bermanfaat..
