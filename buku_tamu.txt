@@ -104,5 +104,5 @@ CodeSaya : ppabcd
 Github: ppabcd
 Nama: Reza Juliandri
 Website: rezajuliandri.ga
-pesan: Sangat membantu pemula dalam belajar pemograman
+Pesan: Sangat membantu pemula dalam belajar pemograman
 
