@@ -99,3 +99,10 @@ Nama: Rian Rajagede
 Website: rianrajagede.wordpress.com
 Pesan: Mudah dipahami untuk pemula, Semoga bisa terus update dan berkembang
 
+Entry: 13
+CodeSaya : ppabcd
+Github: ppabcd
+Nama: Reza Juliandri
+Website: rezajuliandri.ga
+pesan: Sangat membantu pemula dalam belajar pemograman
+
