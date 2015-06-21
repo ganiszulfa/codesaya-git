@@ -107,9 +107,15 @@ Website: rezajuliandri.ga
 Pesan: Sangat membantu pemula dalam belajar pemograman
 
 Entry: 14
+CodeSaya : widiexesz
+Github: widihastomo
+Nama: Widi Hastomo
+Website: hastomo.net
+Pesan: Keren gan.. sangat bermanfaat
+
+Entry: 15
 CodeSaya : Bagusa4
 Github: Bagusa4
 Nama: Bagus Ahmad Setiawan
 Website: blog.bagusa4.tk
 Pesan: Membantu programmer pemula :D Maju terus programmer Indonesia !!!
-
