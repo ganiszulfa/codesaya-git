@@ -106,3 +106,10 @@ Nama: Reza Juliandri
 Website: rezajuliandri.ga
 Pesan: Sangat membantu pemula dalam belajar pemograman
 
+Entry: 14
+CodeSaya : widiexesz
+Github: widihastomo
+Nama: Widi Hastomo
+Website: hastomo.net
+Pesan: Keren gan.. sangat bermanfaat
+
