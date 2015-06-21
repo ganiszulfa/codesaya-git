@@ -107,8 +107,8 @@ Website: rezajuliandri.ga
 Pesan: Sangat membantu pemula dalam belajar pemograman
 
 Entry: 14
-CodeSaya : bagusa4
-Github: bagusa4
+CodeSaya : Bagusa4
+Github: Bagusa4
 Nama: Bagus Ahmad Setiawan
 Website: blog.bagusa4.tk
 Pesan: Membantu programmer pemula :D Maju terus programmer Indonesia !!!
