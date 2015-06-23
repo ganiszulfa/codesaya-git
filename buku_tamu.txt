@@ -119,3 +119,10 @@ Github: Bagusa4
 Nama: Bagus Ahmad Setiawan
 Website: blog.bagusa4.tk
 Pesan: Membantu programmer pemula :D Maju terus programmer Indonesia !!!
+
+Entry: 16
+CodeSaya : nanto88
+Github: nanto88
+Nama: Leksono Nanto P
+Website: 198.50.189.59:9091 (punyanya transmission, belum punya website :v)
+Pesan: Semoga karena codesaya orang indonesia jadi banyak yang mengerti git, dan membuat/mengembangkan project di github :)
