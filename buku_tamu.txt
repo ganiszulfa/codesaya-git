@@ -126,3 +126,11 @@ Github: nanto88
 Nama: Leksono Nanto P
 Website: 198.50.189.59:9091 (punyanya transmission, belum punya website :v)
 Pesan: Semoga karena codesaya orang indonesia jadi banyak yang mengerti git, dan membuat/mengembangkan project di github :)
+
+Entry: 17
+CodeSaya : muhamuttaqien
+Github: muhamuttaqien
+Nama: Muhammad Angga Muttaqien
+Website: Belum ada
+Pesan: Terima kasih banyak mas Ganis. Anda sangat menginspirasi. Dari codesaya.com, saya terinspirasi untuk menjadi coder yang lebih baik lagi kedepannya. Sekali lagi, terima kasih. Salam Coder! :)
+
