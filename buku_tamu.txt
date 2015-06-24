@@ -126,3 +126,10 @@ Github: nanto88
 Nama: Leksono Nanto P
 Website: 198.50.189.59:9091 (punyanya transmission, belum punya website :v)
 Pesan: Semoga karena codesaya orang indonesia jadi banyak yang mengerti git, dan membuat/mengembangkan project di github :)
+
+Entry: 17
+CodeSaya: didikk
+Github: didikk
+Nama: Didik Ismawanto
+Website: didikk.github.io
+Pesan: Alternatif untuk MVA, terutama yang belum begitu menguasai bahasa Inggris.
