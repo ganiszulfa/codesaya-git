@@ -133,3 +133,10 @@ Github: hikmahgumelar
 Nama: hikmahgumelar
 Website: Belum ada
 Pesan: yuk mantap   
+
+Entry: 18
+CodeSaya: didikk
+Github: didikk
+Nama: Didik Ismawanto
+Website: didikk.github.io
+Pesan: Alternatif untuk MVA, terutama yang belum begitu menguasai bahasa Inggris.
