@@ -140,3 +140,10 @@ Github: didikk
 Nama: Didik Ismawanto
 Website: didikk.github.io
 Pesan: Alternatif untuk MVA, terutama yang belum begitu menguasai bahasa Inggris.
+
+Entry: 19
+CodeSaya : muhamuttaqien
+Github: muhamuttaqien
+Nama: Muhammad Angga Muttaqien
+Website: Belum ada
+Pesan: Terima kasih banyak mas Ganis. Anda sangat menginspirasi. Dari codesaya.com, saya terinspirasi untuk menjadi coder yang lebih baik lagi kedepannya. Sekali lagi, terima kasih. Salam Coder! :)
