@@ -147,3 +147,10 @@ Github: muhamuttaqien
 Nama: Muhammad Angga Muttaqien
 Website: Belum ada
 Pesan: Terima kasih banyak mas Ganis. Anda sangat menginspirasi. Dari codesaya.com, saya terinspirasi untuk menjadi coder yang lebih baik lagi kedepannya. Sekali lagi, terima kasih. Salam Coder! :)
+
+Entry: 20
+CodeSaya: jojogitu
+Github: jojogitu
+Nama: Joshua Julian Damanik
+Website: 
+Pesan: Sangat interaktif dan mudah dipahami, mantap :D
