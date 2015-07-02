@@ -161,3 +161,10 @@ Github: silverknightone
 Nama: William
 Website: 
 Pesan: Belajar terus semoga makin mantap di dalam dunia IT. Untuk mas Ganis, terima kasih karena sudah membuat website ini, terus berjuang dan perbanyak konten materi yang dapat di pelajari.
+
+Entry: 22
+CodeSaya: Yoan_Dei
+Github: YoanDei
+Nama: Yoan Dei
+Website: -
+Pesan: Terima Kasih untuk metode Pembelajarannya yang menarik.
