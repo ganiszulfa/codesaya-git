@@ -168,3 +168,10 @@ Github: YoanDei
 Nama: Yoan Dei
 Website: -
 Pesan: Terima Kasih untuk metode Pembelajarannya yang menarik.
+
+Entry: 23
+CodeSaya: ferdhika31
+Github: ferdhika31
+Nama: Ferdhika Yudira
+Website: http://dika.web.id
+Pesan: Mantap, sangat bermanfaat sekali website edukasi IT nya.
