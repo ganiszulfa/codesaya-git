@@ -189,10 +189,3 @@ Github: helmithejoe
 Nama: Helmi 
 Website: -
 Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro! Tp kalo bisa  improve lg aja fitur diskusi nya,terutama fitur untuk mencari cari jawaban dan solusi yang sudah pernah ditanyakan sebelumnya.
-
-Entry: 26
-CodeSaya: zebedeus
-Github: zebedeuspc
-Nama: Zebedeus 
-Website: -
-Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro!
