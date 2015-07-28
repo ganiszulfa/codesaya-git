@@ -202,4 +202,4 @@ CodeSaya: rikka0612
 Github: hamdi93
 Nama: Hamdi
 Website: hamdiweb.pe.hu
-Pesan: ditunggu kelar belajar laravelnya!
+Pesan: ditunggu kelas belajar laravelnya!
