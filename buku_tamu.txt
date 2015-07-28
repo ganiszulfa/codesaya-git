@@ -196,3 +196,10 @@ Github: zebedeuspc
 Nama: Zebedeus 
 Website: -
 Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro!
+
+Entry: 27
+CodeSaya: rikka0612
+Github: hamdi93
+Nama: Hamdi
+Website: hamdiweb.pe.hu
+Pesan: ditunggu kelar belajar laravelnya!
