@@ -203,3 +203,10 @@ Github: hamdi93
 Nama: Hamdi
 Website: hamdiweb.pe.hu
 Pesan: ditunggu kelas belajar laravelnya!
+
+Entry: 28
+CodeSaya: aksal
+Github: MNFadillah
+Nama: Fadil
+Website: -
+Pesan: Webnya keren bro, ditunggu ya yang laravel, makasih banyak
