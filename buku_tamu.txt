@@ -218,3 +218,9 @@ Nama: Fadil
 Website: -
 Pesan: Webnya keren bro, ditunggu ya yang laravel, makasih banyak
 
+Entry: 30
+CodeSaya: mrfreedom
+Github: hanipcode
+Nama: Muhammad Hanif
+Website: hanif.telak.ga
+Pesan: Webnya keren. saya open source enthuatist. ijin bergabung suhu :)
