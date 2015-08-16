@@ -218,3 +218,10 @@ Nama: Fadil
 Website: -
 Pesan: Webnya keren bro, ditunggu ya yang laravel, makasih banyak
 
+Entry: 30
+CodeSaya: azhariejaya
+Github: azhariejaya
+Nama: Azharie Jaya
+Website: http://jackthesystem.blogspot.com/
+Pesan: Mantap gan.. sangat membantu buat belajar, ditunggu laravelnya :D
+
