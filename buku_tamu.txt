@@ -225,3 +225,9 @@ Nama: Azharie Jaya
 Website: http://jackthesystem.blogspot.com/
 Pesan: Mantap gan.. sangat membantu buat belajar, ditunggu laravelnya :D
 
+Entry: 31
+CodeSaya: mrfreedom
+Github: hanipcode
+Nama: Muhammad Hanif
+Website: hanif.telak.ga
+Pesan: Webnya keren. saya open source enthuatist. ijin bergabung suhu :)
