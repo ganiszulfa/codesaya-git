@@ -238,3 +238,10 @@ Github: codingw
 Nama: codingw
 Website: https://boxgue.com
 Pesan: Webnya keren. saya belajar banyak disini
+
+Entry: 33
+CodeSaya: agung_gema
+Github: agunggema 
+Nama: agung_gema  
+Website: ~
+Pesan: codesaya.com learning by doing...감사합니다 mr ganiseu (가니스) 
