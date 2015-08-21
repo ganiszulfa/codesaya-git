@@ -245,3 +245,10 @@ Github: agunggema
 Nama: agung_gema  
 Website: ~
 Pesan: codesaya.com learning by doing...감사합니다 mr ganiseu (가니스) 
+
+Entry: 33
+CodeSaya: faustaleonardo
+Github: faustaleonardo 
+Nama: Fausta Leonardo  
+Website: ~
+Pesan: codecademy-nya, Indonesia. :D
