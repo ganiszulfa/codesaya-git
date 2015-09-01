@@ -254,6 +254,13 @@ Website: ~
 Pesan: codecademy-nya Indonesia :D
 
 Entry: 35
+CodeSaya: abrahamSN
+Github: abrahamSN
+Nama: Abraham Setyanugraha
+Website: http://abrahamsn.com
+Pesan: suka interaktifnya
+
+Entry: 36
 CodeSaya: jackcyber
 Github: jackcyber
 Nama: Joko Purwanto
