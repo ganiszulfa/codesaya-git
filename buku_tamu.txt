@@ -231,3 +231,31 @@ Github: hanipcode
 Nama: Muhammad Hanif
 Website: hanif.telak.ga
 Pesan: Webnya keren. saya open source enthuatist. ijin bergabung suhu :)
+
+Entry: 32
+CodeSaya: codingw
+Github: codingw
+Nama: codingw
+Website: https://boxgue.com
+Pesan: Webnya keren. saya belajar banyak disini
+
+Entry: 33
+CodeSaya: agung_gema
+Github: agunggema 
+Nama: agung_gema  
+Website: ~
+Pesan: codesaya.com learning by doing...감사합니다 mr ganiseu (가니스)
+
+Entry: 34
+CodeSaya: faustaleonardo
+Github: faustaleonardo
+Nama: Fausta Leonardo
+Website: ~
+Pesan: codecademy-nya Indonesia :D
+
+Entry: 35
+CodeSaya: jackcyber
+Github: jackcyber
+Nama: Joko Purwanto
+Website:-
+Pesan: Gile.. ++++buat CodeSaya ^^
