@@ -287,3 +287,10 @@ Github: KeramasWiguna
 Nama: Keramas Wiguna
 Website: Belum Jadi :v
 Pesan: Ditambah lagi dong tutorialnya
+
+Entry: 40
+CodeSaya: blegoh
+Github: blegoh
+Nama: Yusuf Eka Sayogana
+Website: yusufeka.me
+Pesan: tambah python sama docker dong :3
