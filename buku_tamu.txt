@@ -294,3 +294,10 @@ Github: blegoh
 Nama: Yusuf Eka Sayogana
 Website: yusufeka.me
 Pesan: tambah python sama docker dong :3
+
+Entry:41
+CodeSaya: ardicool
+Github: ardicool
+Nama: [Opsional]
+Website: [Opsional]
+Pesan: ayo kerja
