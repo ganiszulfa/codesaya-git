@@ -301,3 +301,10 @@ Github: ardicool
 Nama: [Opsional]
 Website: [Opsional]
 Pesan: ayo kerja
+
+Entry:41
+CodeSaya: onesinus
+Github: onesinus
+Nama: [Opsional]
+Website: [Opsional]
+Pesan: ayo deadline wkwkwk
