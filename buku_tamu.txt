@@ -302,7 +302,7 @@ Nama: [Opsional]
 Website: [Opsional]
 Pesan: ayo kerja
 
-Entry:41
+Entry:42
 CodeSaya: onesinus
 Github: onesinus
 Nama: [Opsional]
