@@ -1,4 +1,4 @@
-## Buku Tamu
+﻿## Buku Tamu
 #
 # - Ubah file ini dengan menambahkan data diri anda di akhir file ini
 # - Dilarang untuk menghapus data yang sudah ada
@@ -308,3 +308,11 @@ Github: onesinus
 Nama: [Opsional]
 Website: [Opsional]
 Pesan: ayo deadline wkwkwk
+
+
+Entry: 43
+CodeSaya: rajiv
+Github: rajivsurabe
+Nama: rajiv
+Website: [Opsional]
+Pesan: Ayo Belajar
