@@ -309,10 +309,16 @@ Nama: [Opsional]
 Website: [Opsional]
 Pesan: ayo deadline wkwkwk
 
-
 Entry: 43
 CodeSaya: rajiv
 Github: rajivsurabe
 Nama: rajiv
 Website: [Opsional]
 Pesan: Ayo Belajar
+
+Entry: 44
+CodeSaya: aidi
+Github: indradaud
+Nama: Indra Daud
+Website: [Opsional]
+Pesan: Laravel kapan nih ?
