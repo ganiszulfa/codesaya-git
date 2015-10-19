@@ -322,3 +322,10 @@ Github: indradaud
 Nama: Indra Daud
 Website: [Opsional]
 Pesan: Laravel kapan nih ?
+
+Entry: 45
+CodeSaya: fitrie
+Github: fitrisyukriasri
+Nama: Fitri Syukriasari
+Website: [Opsional]
+Pesan: Ditunggu Laravelnya gan Ganis :D
