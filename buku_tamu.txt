@@ -1,4 +1,4 @@
-## Buku Tamu
+﻿## Buku Tamu
 #
 # - Ubah file ini dengan menambahkan data diri anda di akhir file ini
 # - Dilarang untuk menghapus data yang sudah ada
@@ -308,3 +308,24 @@ Github: onesinus
 Nama: [Opsional]
 Website: [Opsional]
 Pesan: ayo deadline wkwkwk
+
+Entry: 43
+CodeSaya: rajiv
+Github: rajivsurabe
+Nama: rajiv
+Website: [Opsional]
+Pesan: Ayo Belajar
+
+Entry: 44
+CodeSaya: aidi
+Github: indradaud
+Nama: Indra Daud
+Website: [Opsional]
+Pesan: Laravel kapan nih ?
+
+Entry: 45
+CodeSaya: fitrie
+Github: fitrisyukriasri
+Nama: Fitri Syukriasari
+Website: [Opsional]
+Pesan: Ditunggu Laravelnya gan Ganis :D
