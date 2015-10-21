@@ -337,3 +337,9 @@ Nama: Husain Irnovi
 Website: huiralb.github.io
 Pesan: 	Andai kita tidak begitu hebat, yang penting kita punya "baju" sendiri.
 		Suatu saat kita bisa hebat dengan "baju" itu.
+
+Entry: 47
+CodeSaya: onecthree
+Nama: Sultan Islami
+website: -
+Pesan: No Idea.
