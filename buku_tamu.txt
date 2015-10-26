@@ -343,3 +343,10 @@ CodeSaya: onecthree
 Nama: Sultan Islami
 website: -
 Pesan: No Idea.
+
+Entry: 48
+CodeSaya: sukhartono
+Github: sukhartono
+Nama: sukhartono
+Website: [Opsional]
+Pesan: pusing pala we...XD
