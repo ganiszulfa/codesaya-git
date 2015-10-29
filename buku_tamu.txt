@@ -357,3 +357,10 @@ Github: jiwatoko
 Nama: jiwantoko
 Website: jiwantoko.com
 Pesan: jiwantoko ganteng
+
+Entry: 50
+CodeSaya: bleewah
+Github: dwyor
+Nama: dewa
+Website: dwyor.com
+Pesan: maju terus codesaya.com
