@@ -364,3 +364,10 @@ Github: dwyor
 Nama: dewa
 Website: dwyor.com
 Pesan: maju terus codesaya.com
+
+Entry: 51
+CodeSaya: abas
+Github: derisdjumadi
+Nama: Abas
+Website: abasdjumadi.web.id (sudah lama mati :) )
+Pesan: maju terus codesaya.com
