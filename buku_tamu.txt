@@ -378,3 +378,11 @@ Github: nugrahas38
 Nama: Sandi Nugraha
 Website: nugrahas38.blogspot.com 
 Pesan: maju terus codesaya.com
+
+Entry: 53
+CodeSaya: marksman77
+Github: alcatraz22
+Nama: Muhammad Aji D
+Website: alcasite.com
+Pesan: Ditunggu Materi Learning Laravel 5 nya gan.
+
