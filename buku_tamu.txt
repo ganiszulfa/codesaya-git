@@ -392,3 +392,11 @@ Github: ardifirmansyah8
 Nama: Ardi Firmansyah
 Website: -
 Pesan: Request tutorial ReactJS!
+
+Entry: 55
+CodeSaya: pamaloppa
+Github: pamaloppa
+Nama: pamaloppa
+Website: -
+Pesan: Ditunggu materi-materi selanjutnya
+
