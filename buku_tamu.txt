@@ -400,3 +400,10 @@ Nama: pamaloppa
 Website: -
 Pesan: Ditunggu materi-materi selanjutnya
 
+Entry: 56
+CodeSaya: ranger_biru
+Github: rangerbiru
+Nama: Ahmad
+Website: www.eventbox.id
+Pesan: materi laravelnya ditunggu ya :)
+
