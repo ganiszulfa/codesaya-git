@@ -407,3 +407,10 @@ Nama: Ahmad
 Website: www.eventbox.id
 Pesan: materi laravelnya ditunggu ya :)
 
+Entry: 57
+CodeSaya: akbsaputra
+Github: akbsaputra
+Nama: Akbar Saputra
+Website: meonthemovie.blogspot.com
+Pesan: Semoga segera mencakup Ruby atau Python!
+
