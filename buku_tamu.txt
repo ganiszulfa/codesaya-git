@@ -427,3 +427,11 @@ Github: akbsaputra
 Nama: Akbar Saputra
 Website: meonthemovie.blogspot.com
 Pesan: Semoga segera mencakup Ruby atau Python!
+
+Entry: 60
+CodeSaya: aphrodiky
+Github: aphrodiky
+Nama: Dicky
+Website: -
+Pesan: Best Tutorial EVER!!!
+
