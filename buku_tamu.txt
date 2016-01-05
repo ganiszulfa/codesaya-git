@@ -407,3 +407,10 @@ Nama: Ahmad
 Website: www.eventbox.id
 Pesan: materi laravelnya ditunggu ya :)
 
+Entry: 57
+CodeSaya: aphrodiky
+Github: aphrodiky
+Nama: Dicky
+Website: -
+Pesan: Best Tutorial EVER!!!
+
