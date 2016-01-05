@@ -408,6 +408,7 @@ Website: www.eventbox.id
 Pesan: materi laravelnya ditunggu ya :)
 
 Entry: 57
+<<<<<<< HEAD
 CodeSaya: qrizan
 Github: qrizan
 Nama: -
@@ -420,3 +421,10 @@ Github: ren-sf1rst
 Nama: Septian Adhi Tama
 Website: www.tamatamvan.xyz
 Pesan: . . . :)
+
+Entry: 59
+CodeSaya: akbsaputra
+Github: akbsaputra
+Nama: Akbar Saputra
+Website: meonthemovie.blogspot.com
+Pesan: Semoga segera mencakup Ruby atau Python!
