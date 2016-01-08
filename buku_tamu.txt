@@ -435,3 +435,9 @@ Nama: Dicky
 Website: -
 Pesan: Best Tutorial EVER!!!
 
+Entry: 61
+CodeSaya: ranugoldan
+Github: ranugoldan
+Nama: Ranu Goldan
+Website: ranugoldan.blogspot.com
+Pesan: tuts react.js donggg lagi booming tuh :3
