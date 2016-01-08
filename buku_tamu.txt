@@ -440,4 +440,4 @@ CodeSaya: ranugoldan
 Github: ranugoldan
 Nama: Ranu Goldan
 Website: ranugoldan.blogspot.com
-Pesan: tuts react.js donggg lagi booming tuh :3
+Pesan: tuts react.js dongg lagi booming tuh :3
