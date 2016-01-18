@@ -441,3 +441,11 @@ Github: ranugoldan
 Nama: Ranu Goldan
 Website: ranugoldan.blogspot.com
 Pesan: tuts react.js dongg lagi booming tuh :3
+
+
+Entry: 62
+CodeSaya: factorchrist
+Github: christiwaan
+Nama: Christiawan
+Website: http://christiawan.github.io/
+Pesan: Tutorial Keren , tambahin ruby dong sama rails 
