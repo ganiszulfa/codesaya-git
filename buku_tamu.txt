@@ -449,3 +449,10 @@ Github: christiwaan
 Nama: Christiawan
 Website: http://christiawan.github.io/
 Pesan: Tutorial Keren , tambahin ruby dong sama rails 
+
+Entry: 63
+CodeSaya: vchezt
+Github: davchezt
+Nama: Leonardo DaVchezt
+Website: http://davchezt.tumblr.com
+Pesan: Mantap om hehehehe 
