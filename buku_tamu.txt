@@ -463,3 +463,9 @@ Nama: Teguh Arifianto
 Website: http://teguholica.com
 Pesan: Manteb ini
 
+Entry: 65
+CodeSaya: PanduAldi
+Github: PanduAldi
+Nama: Pandu Aldi
+Website: -
+Pesan: Bagus untuk latihan .. :D
