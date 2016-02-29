@@ -442,7 +442,6 @@ Nama: Ranu Goldan
 Website: ranugoldan.blogspot.com
 Pesan: tuts react.js dongg lagi booming tuh :3
 
-
 Entry: 62
 CodeSaya: factorchrist
 Github: christiwaan
@@ -456,3 +455,11 @@ Github: davchezt
 Nama: Leonardo DaVchezt
 Website: http://davchezt.tumblr.com
 Pesan: Mantap om hehehehe 
+
+Entry: 64
+CodeSaya: teguholica
+Github: teguholica
+Nama: Teguh Arifianto
+Website: http://teguholica.com
+Pesan: Manteb ini
+
