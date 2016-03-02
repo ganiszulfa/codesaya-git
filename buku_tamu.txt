@@ -469,3 +469,10 @@ Github: PanduAldi
 Nama: Pandu Aldi
 Website: -
 Pesan: Bagus untuk latihan .. :D
+
+Entry: 66
+CodeSaya: piyopi
+Github: piyopi
+Nama: Yopi Zulfadhli
+Website: -
+Pesan: -
