@@ -476,3 +476,10 @@ Github: piyopi
 Nama: Yopi Zulfadhli
 Website: -
 Pesan: -
+
+Entry: 67
+CodeSaya: genzol
+Github: virusphp
+Nama: Slamet Sugandi
+Website: http://mangrovepark.web.id
+Pesan: tidak kesan tanpa pesan
