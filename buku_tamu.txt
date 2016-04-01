@@ -497,3 +497,10 @@ GIthub: arcestia
 Nama: Laurensius Jeffrey Chandra
 website : http://me.arcestia.id
 pesan: -
+
+Entry : 70
+CodeSaya : sauufi
+GIthub: sauufi
+Nama: Agus Saufi
+website : http://sering.ml
+pesan: -
