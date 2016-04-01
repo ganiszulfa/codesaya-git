@@ -490,3 +490,10 @@ GIthub: hadyasnsyahaziz
 Nama: hadyansyahaziz
 website : -
 pesan _
+
+Entry : 69
+CodeSaya : arcestia
+GIthub: arcestia
+Nama: Laurensius Jeffrey Chandra
+website : http://me.arcestia.id
+pesan: -
