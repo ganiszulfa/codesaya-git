@@ -504,3 +504,10 @@ GIthub: sauufi
 Nama: Agus Saufi
 website : http://sering.ml
 pesan: -
+
+Entry : 71
+CodeSaya : Aldhitya
+GIthub: AldhityaSimpel
+Nama: Aldhitya Prasetya
+website : -
+pesan: Mencari ilmu dengan cara yang kreatif
