@@ -503,4 +503,10 @@ CodeSaya : sauufi
 GIthub: sauufi
 Nama: Agus Saufi
 website : http://sering.ml
-pesan: -
+
+Entry : 71
+CodeSaya : aryfirmansah
+GIthub : aryfirmansah
+Nama : Arif Yuni Firmansah
+Website : -
+Pesan : happy Banget belajar di CodeSaya.com . Mudah sekali dipahami. Smoga tetep istiqomah free course ..hahaha
