@@ -518,3 +518,10 @@ GIthub: AldhityaSimpel
 Nama: Aldhitya Prasetya
 website : -
 pesan: Mencari ilmu dengan cara yang kreatif
+
+Entry : 73
+CodeSaya : -
+GIthub: ryanratjani
+Nama: Muhammad Ryan
+website : -
+pesan: -
