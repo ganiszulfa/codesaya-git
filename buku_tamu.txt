@@ -99,3 +99,10 @@ Nama: Rian Rajagede
 Website: rianrajagede.wordpress.com
 Pesan: Mudah dipahami untuk pemula, Semoga bisa terus update dan berkembang
 
+Entry: 13
+CodeSaya: riyadh11
+Github: riyadh11
+Nama: Ahmad Riyadh Al Faathin
+Website: www.faathin.com
+Pesan: UPDATE C++,JAVA,Python dan pengembangan API dong.
+
