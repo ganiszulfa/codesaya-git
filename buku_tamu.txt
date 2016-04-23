@@ -518,3 +518,10 @@ GIthub: AldhityaSimpel
 Nama: Aldhitya Prasetya
 website : -
 pesan: Mencari ilmu dengan cara yang kreatif
+
+Entry : 73
+CodeSaya: riyadh11
+Github: riyadh11
+Nama: Ahmad Riyadh Al Faathin
+Website: www.faathin.com
+Pesan: UPDATE C++,JAVA,Python dan pengembangan API dong.
