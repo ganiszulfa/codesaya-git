@@ -4,12 +4,12 @@
 # - Dilarang untuk menghapus data yang sudah ada
 # - Format penulisannya seperti berikut:
 # 
-#   Entry: 73
-#   CodeSaya: Rambers
-#   Github: rambers
-#   Nama: Rahmad
-#   Website: https://rambers.com/
-#   Pesan: Semoga CodeSaya makin maju dan banyak fitur yang baru agar teman-teman yang ingin belajar makin nyaman. 
+#   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
+#   CodeSaya: [wajib, masukkan username anda di CodeSaya]
+#   Github: [wajib, masukkan username anda di Github]
+#   Nama: [Opsional]
+#   Website: [Opsional]
+#   Pesan: [Opsional]
 #
 # - Berikan satu baris kosong setelah setiap entry-nya
 # - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
@@ -525,3 +525,10 @@ Github: riyadh11
 Nama: Ahmad Riyadh Al Faathin
 Website: www.faathin.com
 Pesan: UPDATE C++,JAVA,Python dan pengembangan API dong.
+
+Entry: 74
+CodeSaya: Rambers
+Github: rambers
+Nama: Rahmad
+Website: https://rambers.com/
+Pesan: Semoga CodeSaya makin maju dan banyak fitur yang baru agar teman-teman yang ingin belajar makin nyaman.
