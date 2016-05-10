@@ -539,3 +539,10 @@ Github: nahraf31
 Nama: Muhamad Rizqi Farhan
 Website: -
 Pesan: -
+
+Entry: 76
+CodeSaya: rendito
+Github: rendito
+Nama: Rendito S
+Website: renditosulantio.com
+Pesan: Keep Calm and Love Programming
