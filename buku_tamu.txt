@@ -70,7 +70,7 @@ Github: succi23
 Nama: Suci Sukawana
 Website: succi-23.blogspot.com
 Pesan: I Love Programming
-
+https://github.com/ganiszulfa/codesaya-git
 Entry: 9
 Codesaya: jkprasaja
 Github: jkprasaja
@@ -352,7 +352,7 @@ Website: [Opsional]
 Pesan: pusing pala we...XD
 
 Entry: 69 eh 49
-CodeSaya: jiwantoko
+CodeSaya: jiwantokohttps://github.com/ganiszulfa/codesaya-git
 Github: jiwatoko
 Nama: jiwantoko
 Website: jiwantoko.com
@@ -554,3 +554,11 @@ Github: herusdianto
 Nama: Heru Rusdianto
 Website: -
 Pesan: Matur suwun mas
+
+Entry		: 78
+CodeSaya	: indar
+GitHub		: indarjoko
+Nama		: Indar Joko P.
+Website		: -
+Pesan		: Jadilah Seperti Padi
+
