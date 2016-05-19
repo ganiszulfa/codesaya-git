@@ -546,3 +546,11 @@ Github: rendito
 Nama: Rendito S
 Website: renditosulantio.com
 Pesan: Keep Calm and Love Programming
+
+
+Entry: 77
+CodeSaya: herusdianto
+Github: herusdianto
+Nama: Heru Rusdianto
+Website: -
+Pesan: Matur suwun mas
