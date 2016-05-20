@@ -554,3 +554,10 @@ Github: herusdianto
 Nama: Heru Rusdianto
 Website: -
 Pesan: Matur suwun mas
+
+Entry: 78
+CodeSaya: bramanto
+Github: bramanto
+Nama: Bram Sheehan
+Website: http://www.bramsheehan.com
+Pesan: Wadah online terbaik untuk belajar programming. Sukses selalu untuk CodeSaya.com
