@@ -547,10 +547,16 @@ Nama: Rendito S
 Website: renditosulantio.com
 Pesan: Keep Calm and Love Programming
 
-
 Entry: 77
 CodeSaya: herusdianto
 Github: herusdianto
 Nama: Heru Rusdianto
 Website: -
 Pesan: Matur suwun mas
+
+Entry: 78
+CodeSaya: TOPP
+Github: imtopp
+Nama: Taufiq Okta Pratama Putra
+Website: -
+Pesan: Hahaha masih pusing tp better lah dibanding pertama mulai training hahaha..
