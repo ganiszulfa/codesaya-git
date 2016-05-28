@@ -568,3 +568,9 @@ Nama: Yehezkiel Sentosa
 Website: http://www.hezqi.com/
 Pesan: May the force be with you.
 
+Entry: 80
+CodeSaya: dantalian
+Github: SetengahKucing
+Nama: Rizwan Yuniarto
+Website: -
+Pesan: Pusing @_@.
