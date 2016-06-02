@@ -581,3 +581,10 @@ Github: rifrandz
 Nama: Riyanto Franskly Pangaribuan
 Website: -
 Pesan: semoga tutorialnya makin lengkap, seandainya ada yang bisa saya bantu akan sangat menyenangkan
+
+Entry: 82
+CodeSaya: zihadrizkyef
+Github: zihadrizkyef
+Nama: Zihad Rizky Edwin Fikri
+Website: zihadrizkyef.github.io
+Pesan: Mantap broh
