@@ -609,3 +609,10 @@ Github: rahmandikahaekal
 Nama : Rahmandikahaekal
 Website : rahmandikahaekal.github.io
 Pesan : lumayan lahh
+
+Entry: 86
+CodeSaya: Muhazam
+Github: Muhazam
+Nama : Muhazam
+Website : Muhazam.github.io
+Pesan : keren... semoga bertambah banyak tutorialnya. terutama tentang bahasa pemrogramannya..
