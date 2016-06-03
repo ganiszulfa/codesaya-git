@@ -602,3 +602,10 @@ Github: arjilm
 Nama: Abdul Jabbar
 Website: -
 Pesan: semoga tutorialnya makin lengkap, terimakasih sangant bermanfaat
+
+Entry: 85
+CodeSaya: rahmandikahaekal
+Github: rahmandikahaekal
+Nama : Rahmandikahaekal
+Website : rahmandikahaekal.github.io
+Pesan : lumayan lahh
