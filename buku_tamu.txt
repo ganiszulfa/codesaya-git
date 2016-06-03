@@ -588,3 +588,10 @@ Github: zihadrizkyef
 Nama: Zihad Rizky Edwin Fikri
 Website: zihadrizkyef.github.io
 Pesan: Mantap broh
+
+Entry: 83
+Codesaya: ariefulkhakim
+Github: ariefulkhakim
+Nama: ariefulkhakim
+Website: ariefulkhakim.github.io
+Pesan: Wokeh 
