@@ -616,3 +616,10 @@ Github: ariefulkhakim
 Nama: ariefulkhakim
 Website: ariefulkhakim.github.io
 Pesan: Wokeh 
+
+Entry: 87
+Codesaya: Muhazam
+Github: Muhazam
+Nama: Muhazam
+Website: Muhazam.github.io
+Pesan: keren, sangat bermanfaat tutornya, semoga nambah lagi tutorialnya...
