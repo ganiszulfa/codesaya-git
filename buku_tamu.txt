@@ -616,3 +616,12 @@ Github: ariefulkhakim
 Nama: ariefulkhakim
 Website: ariefulkhakim.github.io
 Pesan: Wokeh 
+
+Entry: 87
+Codesaya: aswinawien
+Github: aswinawien
+Nama: aswinawien
+Website: aswinawien.github.io
+Pesan: apa saja lah 
+
+
