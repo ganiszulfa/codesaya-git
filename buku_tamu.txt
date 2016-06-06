@@ -624,4 +624,9 @@ Nama: aswinawien
 Website: aswinawien.github.io
 Pesan: apa saja lah 
 
-
+Entry: 88
+CodeSaya: KhoirulAmsori
+Github: KhoirulAmsori
+Nama: Khoirul Amsori
+Website: -
+Pesan: Terima Kasih CodeSaya, berkat website ini saya bisa belajar Python dan Git dengan Bahasa Indonesia.
