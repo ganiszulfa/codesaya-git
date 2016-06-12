@@ -630,3 +630,10 @@ Github: KhoirulAmsori
 Nama: Khoirul Amsori
 Website: -
 Pesan: Terima Kasih CodeSaya, berkat website ini saya bisa belajar Python dan Git dengan Bahasa Indonesia.
+
+Entry: 89
+CodeSaya: zulhilmi
+GitHub: HilmiZul
+Nama: Zul Hilmi
+Website: -
+Pesan: Haturnuhun, ganiseu-hyung :D
