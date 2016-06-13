@@ -651,3 +651,11 @@ Github: abdrrahmenz
 Nama: abdurrahman
 Website: abdrrahmenz.github.io
 Pesan: Josss CodeSaya.com maju terus pantang mundur. 
+
+Entry: 92
+CodeSaya: moeljono
+Github: moeljono
+Nama: Moeljono
+Website: https://github.com/moeljono
+Pesan: Good tutorial.
+
