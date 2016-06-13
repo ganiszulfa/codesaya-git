@@ -638,3 +638,10 @@ Nama: Muhazam
 Website: Muhazam.github.io
 Pesan: keren, sangat bermanfaat tutornya, semoga nambah lagi tutorialnya...
 
+Entry: 90
+CodeSaya: ikhsanlubis 
+Github: IkhsanProgremmer
+Nama : IkhsanProgremmer
+Website : IkhsanProgremmer.github.io
+Pesan : bermanfaat
+
