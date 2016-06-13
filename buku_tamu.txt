@@ -630,3 +630,10 @@ Github: KhoirulAmsori
 Nama: Khoirul Amsori
 Website: -
 Pesan: Terima Kasih CodeSaya, berkat website ini saya bisa belajar Python dan Git dengan Bahasa Indonesia.
+
+Entry: 89
+CodeSaya: Muhazam
+Github: Muhazam
+Nama : Muhazam
+Website : Muhazam.github.io
+Pesan : keren... semoga bertambah banyak tutorialnya. terutama tentang bahasa pemrogramannya..
