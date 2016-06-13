@@ -659,3 +659,9 @@ Nama: Moeljono
 Website: https://github.com/moeljono
 Pesan: Good tutorial.
 
+Entry: 93
+CodeSaya: zulhilmi
+GitHub: HilmiZul
+Nama: Zul Hilmi
+Website: -
+Pesan: Haturnuhun, ganiseu-hyung :D
