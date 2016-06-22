@@ -665,3 +665,10 @@ GitHub: HilmiZul
 Nama: Zul Hilmi
 Website: -
 Pesan: Haturnuhun, ganiseu-hyung :D
+
+Entry: 94
+CodeSaya: ajikamaludin
+Github: ajikamaludin
+Nama: Aji Kamaludin
+Website: https://ajikamaludin.blogspot.com
+Pesan: Git Super Keren :D Salam Kenal Buat Yang ke 95
