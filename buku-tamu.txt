@@ -700,3 +700,10 @@ Github: ugho
 Nama: Yuggo Afrianto
 Website: -
 Pesan: Nice & Cool :D
+
+Entry: 99
+CodeSaya: ZihxS
+Github: ZihxS
+Nama: Muhamamd Saleh Solahudin
+Website: -
+Pesan: Belajar Coding Di CodeSaya.com Sangat Mengasyikkan!! :D
