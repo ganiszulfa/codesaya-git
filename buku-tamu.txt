@@ -707,3 +707,10 @@ Github: yusuf1998
 Nama: Yusuf Habibi
 Website: -
 Pesan : Wow Entry ke 99 :D Sukses terus code saya :D
+
+Entry: 100
+CodeSaya: ZihxS
+Github: ZihxS
+Nama: Muhamamd Saleh Solahudin
+Website: -
+Pesan: Belajar Coding Di CodeSaya.com Sangat Mengasyikkan!! :D
