@@ -751,3 +751,10 @@ Github: abu-abdirrahman
 Nama: Safarul Muqoil
 Website: -
 Pesan: Mas Ganis, tambah lagi donk bahasa pemrogramannya,
+
+Entry: 106
+CodeSaya: doublegunz
+Github: doublegunz
+Nama: Gun Gun Priatna
+Website: -
+Pesan: Semoga ilmunya berkah... :)
