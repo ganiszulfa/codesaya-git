@@ -744,3 +744,10 @@ Github: satyakresna
 Nama: Satya Kresna
 Website: https://linkedin.com/satyakresna
 Pesan: Semangat tim CodeSaya!:)
+
+Entry: 105
+CodeSaya: abuabdirrahman
+Github: abu-abdirrahman
+Nama: Safarul Muqoil
+Website: -
+Pesan: Mas Ganis, tambah lagi donk bahasa pemrogramannya,
