@@ -758,3 +758,10 @@ Github: doublegunz
 Nama: Gun Gun Priatna
 Website: -
 Pesan: Semoga ilmunya berkah... :)
+
+Entry: 107
+CodeSaya: ededen31
+Github: ededen31
+Nama: Encep Deden
+Website: -
+Pesan: Semoga Codesaya lebih banyak bahasa pemrogramannya! Biar bisa terus belajar, bayar juga gapapa! :-)
