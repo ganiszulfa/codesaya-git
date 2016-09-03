@@ -1,4 +1,4 @@
-﻿## Buku Tamu
+## Buku Tamu
 #
 # - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
 # - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
@@ -772,3 +772,10 @@ Github: Hyuwah
 Nama: Muhammad Wahyudin
 Website: http://hyuwah.github.io
 Pesan: :clap:
+
+Entry: 109
+CodeSaya: sugidaffection
+Github: sugidaffection
+Nama: Sugi
+Website: -
+Pesan: :)
