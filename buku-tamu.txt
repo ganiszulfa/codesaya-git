@@ -772,3 +772,10 @@ Github: Hyuwah
 Nama: Muhammad Wahyudin
 Website: http://hyuwah.github.io
 Pesan: :clap:
+
+Entry: 109
+CodeSaya: Alif_Ilyasa
+Github: NurAlif
+Nama: Nur Alif Ilyasa
+Website: -
+Pesan: Ditunggu bahasa c-c nya...!
