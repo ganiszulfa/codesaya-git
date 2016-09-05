@@ -780,10 +780,16 @@ Nama: -
 Website: -
 Pesan: Bagus, Terimakasih banyak
 
-Entry: 109
+Entry: 110
 CodeSaya: sugidaffection
 Github: sugidaffection
 Nama: Sugi
 Website: -
 Pesan: :)
 
+Entry: 111
+CodeSaya: Alif_Ilyasa
+Github: NurAlif
+Nama: Nur Alif Ilyasa
+Website: -
+Pesan: Ditunggu bahasa c-c nya...!
