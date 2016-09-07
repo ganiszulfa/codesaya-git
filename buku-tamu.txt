@@ -7,12 +7,12 @@
 # - Dilarang untuk menghapus data yang sudah ada
 # - Format penulisannya seperti berikut:
 # 
-#   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
-#   CodeSaya: [wajib, masukkan username anda di CodeSaya]
-#   Github: [wajib, masukkan username anda di Github]
-#   Nama: [Opsional]
-#   Website: [Opsional]
-#   Pesan: [Opsional]
+#   Entry: 112
+#   CodeSaya: muhammad7495
+#   Github: muhammad7495
+#   Nama: Muh. Iqbal A. P.
+#   Website: -
+#   Pesan: Jangan lupa jga untuk menambahkan MySQL ;D
 #
 # - Berikan satu baris kosong setelah setiap entry-nya
 # - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
