@@ -793,3 +793,11 @@ Github: NurAlif
 Nama: Nur Alif Ilyasa
 Website: -
 Pesan: Ditunggu bahasa c-c nya...!
+
+Entry: 112
+CodeSaya: M_Wiguna_Saputra
+Github: mwiguna
+Nama: M. Wiguna Saputra
+Website: http://sentralteknologi.com/
+Pesan: Sangat bagus dan interaktif, hanya sepertinya materinya perlu ditambah. terimakasih
+
