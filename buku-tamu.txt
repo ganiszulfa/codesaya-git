@@ -1,4 +1,4 @@
-## Buku Tamu
+﻿## Buku Tamu
 #
 # - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
 # - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
@@ -793,3 +793,10 @@ Github: NurAlif
 Nama: Nur Alif Ilyasa
 Website: -
 Pesan: Ditunggu bahasa c-c nya...!
+
+Entry: 112
+CodeSaya: mufidhadi
+Github: mufidhadi
+Nama: Mufid Hadi
+Website: -
+Pesan: codesaya kece akut...! terimakasih codesaya.com .saya jadi banyak dapet ilmu yang selama ini saya cari-cari banget. semoga codesaya.com semakin besar dan kece..!
