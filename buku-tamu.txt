@@ -810,7 +810,7 @@ Website: http://sentralteknologi.com/
 Pesan: Sangat bagus dan interaktif, hanya sepertinya materinya perlu ditambah. terimakasih
 
 Entry: 114
-Codesaya: bachtiar
+CodeSaya: bachtiar
 Github: bachtiarsdk
 Nama: Bachtiar Amrullah
 Website: www.jalantuma.blogspot.co.id
