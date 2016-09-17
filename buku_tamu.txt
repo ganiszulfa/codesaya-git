@@ -518,3 +518,10 @@ GIthub: AldhityaSimpel
 Nama: Aldhitya Prasetya
 website : -
 pesan: Mencari ilmu dengan cara yang kreatif
+
+Entry : 73
+CodeSaya : waldiirawan
+Github : https://github.com/waldiirawan
+Nama : Waldi Irawan
+Website : waldiirawan.id icoding.id
+Pesan : ...
