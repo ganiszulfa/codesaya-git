@@ -809,3 +809,10 @@ Nama: M. Wiguna Saputra
 Website: http://sentralteknologi.com/
 Pesan: Sangat bagus dan interaktif, hanya sepertinya materinya perlu ditambah. terimakasih
 
+Entry: 114
+CodeSaya: Gismu
+Github: Gismu
+Nama: -
+Website: -
+Pesan: -
+
