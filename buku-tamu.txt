@@ -816,3 +816,10 @@ Nama: -
 Website: -
 Pesan: -
 
+
+Entry: 115
+CodeSaya: kevingundam
+Github: kevingundam
+Nama: Kevin Ericson
+Website: -
+Pesan: Perbanyak bahasa pemrograman. Terima kasih.
