@@ -522,6 +522,7 @@ website : -
 pesan: Mencari ilmu dengan cara yang kreatif
 
 Entry : 73
+<<<<<<< HEAD:buku-tamu.txt
 CodeSaya: riyadh11
 Github: riyadh11
 Nama: Ahmad Riyadh Al Faathin
@@ -822,3 +823,10 @@ Github: bachtiarsdk
 Nama: Bachtiar Amrullah
 Website: www.jalantuma.blogspot.co.id
 Pesan: Good job Codesaya
+
+Entry: 116
+CodeSaya : waldiirawan
+Github : https://github.com/waldiirawan
+Nama : Waldi Irawan
+Website : waldiirawan.id icoding.id
+Pesan : ...
