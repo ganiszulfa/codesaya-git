@@ -850,3 +850,10 @@ Github: pendi-eventindo
 Nama: pendi
 Website: lagirame.blogspot.com
 Pesan: media belajar yang seru
+
+Entry: 120
+CodeSaya: kevingundam
+Github: kevingundam
+Nama: Kevin Ericson
+Website: -
+Pesan: Perbanyak bahasa pemrograman. Terima kasih.
