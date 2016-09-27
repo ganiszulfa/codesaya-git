@@ -816,3 +816,9 @@ Nama: -
 Website: -
 Pesan: -
 
+Entry: 115
+CodeSaya: bachtiar
+Github: bachtiarsdk
+Nama: Bachtiar Amrullah
+Website: www.jalantuma.blogspot.co.id
+Pesan: Good job Codesaya
