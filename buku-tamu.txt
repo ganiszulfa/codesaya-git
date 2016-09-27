@@ -578,6 +578,7 @@ Website: -
 Pesan: Pusing @_@.
 
 Entry: 81
+<<<<<<< HEAD:buku-tamu.txt
 CodeSaya: rifrandz
 Github: rifrandz
 Nama: Riyanto Franskly Pangaribuan
@@ -795,7 +796,6 @@ Website: -
 Pesan: Ditunggu bahasa c-c nya...!
 
 Entry: 112
-<<<<<<< HEAD
 CodeSaya: mufidhadi
 Github: mufidhadi
 Nama: Mufid Hadi
@@ -837,3 +837,9 @@ Nama : dhany
 Website : -
 Pesan : tambahkan lagi materinya master....ehehehe
 
+Entry: 118
+CodeSaya: irvanyale
+Github: irvanyale
+Nama: Irvan Wahyu N
+Website: www.irvanyale.com
+Pesan: Terima kasih ilmunya gan :)
