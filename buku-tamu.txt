@@ -816,6 +816,7 @@ Nama: -
 Website: -
 Pesan: -
 
+<<<<<<< HEAD
 Entry: 115
 CodeSaya: bachtiar
 Github: bachtiarsdk
@@ -857,3 +858,4 @@ Github: kevingundam
 Nama: Kevin Ericson
 Website: -
 Pesan: Perbanyak bahasa pemrograman. Terima kasih.
+
