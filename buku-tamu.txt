@@ -810,9 +810,9 @@ Website: http://sentralteknologi.com/
 Pesan: Sangat bagus dan interaktif, hanya sepertinya materinya perlu ditambah. terimakasih
 
 Entry: 114
-CodeSaya: Gismu
-Github: Gismu
-Nama: -
-Website: -
-Pesan: -
+CodeSaya: reinhard
+Github: reinhardalex
+Nama: reinhard alexander kupa
+Website: http://renhardalex.blogspot.co.id/
+Pesan: smoga kelas di codesaya makin banyak :D
 
