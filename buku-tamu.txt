@@ -859,3 +859,9 @@ Nama: Kevin Ericson
 Website: -
 Pesan: Perbanyak bahasa pemrograman. Terima kasih.
 
+Entry: 121
+CodeSaya: febriantonugroho
+Github: febriantonugroho
+Nama: Febrianto Nugroho
+Website: www.febriantonugroho.com
+Pesan: Codesaya mampu mengemas materi berbobot tinggi dengan bahasa yang mudah dicerna. Mantabbb
