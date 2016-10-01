@@ -119,7 +119,11 @@ Entry: 15
 CodeSaya : Bagusa4
 Github: Bagusa4
 Nama: Bagus Ahmad Setiawan
-Website: blog.bagusa4.tk
+odeSaya: jambari
+Github: jambari
+Nama: Jambari
+Website: facebook/jambari
+Pesan: Tambah kelas Djangooo.
 Pesan: Membantu programmer pemula :D Maju terus programmer Indonesia !!!
 
 Entry: 16
@@ -872,3 +876,11 @@ Github: jambari
 Nama: Jambari
 Website: facebook/jambari
 Pesan: Tambah kelas Djangooo.
+
+Entry: 123
+CodeSaya: reinhard
+Github: reinhardalex
+Nama: ReinHard Alexander Kupa
+Website: http://renhardalex.blogspot.co.id/
+Pesan: semoga kelas di codesaya makin banyak :D, dan codesaya tersu berkembang.
+
