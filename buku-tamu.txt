@@ -865,3 +865,10 @@ Github: febriantonugroho
 Nama: Febrianto Nugroho
 Website: www.febriantonugroho.com
 Pesan: Codesaya mampu mengemas materi berbobot tinggi dengan bahasa yang mudah dicerna. Mantabbb
+
+Entry: 122
+CodeSaya: jambari
+Github: jambari
+Nama: Jambari
+Website: facebook/jambari
+Pesan: Tambah kelas Djangooo.
