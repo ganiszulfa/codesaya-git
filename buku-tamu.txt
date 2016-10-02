@@ -872,3 +872,11 @@ Github: jambari
 Nama: Jambari
 Website: facebook/jambari
 Pesan: Tambah kelas Djangooo.
+
+Entry: 123
+CodeSaya: reinhard
+Github: reinhardalex
+Nama: ReinHard Alexander Kupa
+Website: http://renhardalex.blogspot.co.id/
+Pesan: semoga kelas di codesaya makin banyak :D, dan codesaya tersu berkembang.
+
