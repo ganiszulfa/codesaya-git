@@ -1,4 +1,4 @@
-﻿## Buku Tamu
+## Buku Tamu
 #
 # - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
 # - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
@@ -880,3 +880,9 @@ Nama: ReinHard Alexander Kupa
 Website: http://renhardalex.blogspot.co.id/
 Pesan: semoga kelas di codesaya makin banyak :D, dan codesaya tersu berkembang.
 
+Entry: 124
+CodeSaya: bangkho
+Github: bangkho
+Nama: Ahmad Khoirudin
+Website: www.clashroyalegg.cf
+Pesan: -
