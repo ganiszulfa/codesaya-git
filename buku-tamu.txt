@@ -821,13 +821,6 @@ Entry: 115
 CodeSaya: bachtiar
 Github: bachtiarsdk
 
-Entry: 116
-CodeSaya: antonius
-Github: antonius1712
-Nama: Antonius Christian
-Website: http://www.batavianet.com/
-Pesan: Asik seru fun interaktif, kalo bisa ditambah lagi fitur-fiturnya entah apapun itu, ya semoga admin ganis tidak sibuk untuk menambahkan materi lain, gimana kalo dibuatkan juga sertifikat lulus materi? kaya setelah menyelesaikan Hour of Code lalu dapet sertifikat yang atas nama sendiri untuk disimpan dalam jpeg atau pdf. Terimakasih.
-
 Nama: Bachtiar Amrullah
 Website: www.jalantuma.blogspot.co.id
 Pesan: Good job Codesaya
@@ -888,3 +881,9 @@ Nama: ReinHard Alexander Kupa
 Website: http://renhardalex.blogspot.co.id/
 Pesan: semoga kelas di codesaya makin banyak :D, dan codesaya tersu berkembang.
 
+Entry: 124
+CodeSaya: antonius
+Github: antonius1712
+Nama: Antonius Christian
+Website: http://www.batavianet.com/
+Pesan: Asik seru fun interaktif, kalo bisa ditambah lagi fitur-fiturnya entah apapun itu, ya semoga admin ganis tidak sibuk untuk menambahkan materi lain, gimana kalo dibuatkan juga sertifikat lulus materi? kaya setelah menyelesaikan Hour of Code lalu dapet sertifikat yang atas nama sendiri untuk disimpan dalam jpeg atau pdf. Terimakasih.
