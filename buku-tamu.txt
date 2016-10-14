@@ -1,4 +1,4 @@
-## Buku Tamu
+﻿## Buku Tamu
 #
 # - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
 # - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
@@ -892,4 +892,11 @@ CodeSaya: antonius
 Github: antonius1712
 Nama: Antonius christian
 Website: www.batavianet.com
+Pesan: -
+
+Entry: 126
+Codesaya: afanmr
+Github: fauzi4
+Nama: Adrian Fauzi
+Website: facebook/adrianpfauzi
 Pesan: -
