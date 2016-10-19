@@ -908,3 +908,9 @@ Nama: Fendy Kharisma
 Website: -
 Pesan: Terima kasih banyak, belajar di codesaya sangat menyenangkan, beda dari yg lainnya. Terus dikembangin ya, saya tunggu kelas2 berikutnya..
 
+Entry: 128
+CodeSaya: WCandra64
+Github: WCandra64
+Nama: Wahyu Candra
+Website: -
+Pesan: Tambah bahasa C dong ! !!!
