@@ -914,3 +914,10 @@ Github: WCandra64
 Nama: Wahyu Candra
 Website: -
 Pesan: Tambah bahasa C dong ! !!!
+
+Entry: 129
+CodeSaya: ganis
+Github: ganiszulfa
+Nama: Ganis
+Website: http://ganiseu.wordpress.com/
+Pesan: Bagaimana pengalaman belajar Git di Codesaya? Komentar, saran, dan ide sangat dinantikan. Terimakasih.
