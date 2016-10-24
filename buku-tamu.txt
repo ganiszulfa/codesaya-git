@@ -914,3 +914,10 @@ Github: WCandra64
 Nama: Wahyu Candra
 Website: -
 Pesan: Tambah bahasa C dong ! !!!
+
+Entry: 129
+CodeSaya: amoyee
+Github: amoyee
+Nama: amoyee
+Website: -
+Pesan: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor auctor placerat. Cras lacinia augue quis ligula luctus fringilla. 
