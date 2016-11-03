@@ -929,3 +929,16 @@ Nama: Bondan Eko Prasetyo
 Website: https://bondan.biz
 Pesan: Terima kasih untuk tutorial pull requestnya,sangat bermanfaat.!!
 
+Entry: 131
+CodeSaya:herman_sugiharto
+Github: ezioalzeusi
+Nama: Herman Sugiharto
+Website: http://noesantara.byethost10.com
+Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: r1ckysyd
+GitHub: r1ckysy
+Nama: Ricky
+Website: -
+Pesan: Terus belajar, ber-etos kerja
