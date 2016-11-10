@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry:132
+CodeSaya: nartos9090
+Github: nartos9090
+Nama: Widya Ardianto
+website: https://nartosclub.blogspot.co.id
+Pesan: THE Lorem ipsum dolor sit amet, consectetur adipiscing elit.
