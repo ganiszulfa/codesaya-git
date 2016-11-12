@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: Galpil
+Github: galangpiliang
+Nama: Galang Piliang
+Website: https://www.youtube.com/galangpiliang
+Pesan: Terima kasih untuk tutorial pull requestnya,sangat bermanfaat.!!
+
