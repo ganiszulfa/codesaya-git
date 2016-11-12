@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: igorsaklitinov
+Github: igorsaklitinov
+Nama : Panthera 
+Website: github.com/igorsaklitinov
+Pesan: Terima kasih untuk tutorial git nya di codesaya, sangat bermanfaat :)
+
