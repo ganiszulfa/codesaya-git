@@ -809,3 +809,9 @@ Nama: M. Wiguna Saputra
 Website: http://sentralteknologi.com/
 Pesan: Sangat bagus dan interaktif, hanya sepertinya materinya perlu ditambah. terimakasih
 
+Entry: 114
+CodeSaya: mnjon1997
+Github: mnjon1997
+Nama: Jonry Simbolon
+Website: -
+Pesan: Situs nya bagus gan, kalo boleh saran , tambahin bahasa C/C++ lah gan , biar keren :D
