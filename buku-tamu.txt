@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: poketest182
+Github: poketest182
+Nama: poke tester
+Website: -
+Pesan: Terimakasih ya
