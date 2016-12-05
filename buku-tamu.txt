@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:rizkiarahman
+Github: rizkiarahman
+Nama: Rizki Arahman
+Website: -
+Pesan: Terimakasih, soal push request git hub ini sungguh bermanfaat!
