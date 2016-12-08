@@ -934,4 +934,11 @@ CodeSaya:herman_sugiharto
 Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
-Pesan: Terimakasih ya
+Pesan: Terimakasih ya  
+ 
+Entry : 132
+Codesaya : Kagura
+Github : Imofiti
+Nama : Rathomi Fitriah
+Website:   
+Pesan : Moga ke depannya lebih banyak kelasnya lagi.Semakin berjaya buat codesaya
