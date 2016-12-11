@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:abdshamadrennu
+Github: blackholeind
+Nama: abd shamad rennu
+Website: www.abdshamadrennu.wordpress.com
+Pesan: tambahkan tutoria C and C++ dong 
+
