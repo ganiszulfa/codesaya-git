@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 1312
+CodeSaya:Alfira
+Github: Alfiran
+Nama: Alfira
+Website: -
+Pesan: Terimakasih ya
+
