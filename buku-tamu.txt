@@ -922,7 +922,7 @@ Nama: amoyee
 Website: -
 Pesan: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor auctor placerat. Cras lacinia augue quis ligula luctus fringilla.
 
-Entry: 130
+Entry: 130 
 CodeSaya: bondan23
 Github: bondan23
 Nama: Bondan Eko Prasetyo
@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:sukijo
+Github: sandyaaa
+Nama: sandy adam
+Website: -
+Pesan: - 
