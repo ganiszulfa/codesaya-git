@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: arietmatika
+Github: lidilidian
+Nama: Arie Kurniawan
+Website: https://lidilidian.github.io
+Pesan: Semakin dikembangkan (y)
