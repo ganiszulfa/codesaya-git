@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: Mr.Gr33n
+Github: vianlf
+Nama: Albi Oktaviansah
+Website: -
+Pesan: Terima kasih banyak, berkat belajar di codesaya ilmu saya bertambah dan membuat saya semakin semangat untuk mendalami bahasa pemrograman, saya harap kedepannya codesaya semakin berkembang pesat dan menyediakan tambahan materi seperti bahasa c, android dan lain-lain. 
