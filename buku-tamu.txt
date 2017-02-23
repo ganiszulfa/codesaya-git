@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry	: 132
+CodeSaya: penguinjantan
+Github	: penguinjantan
+Nama	: penguinjantan
+Website	: -
+Pesan	: ditambah video kalo bisa, biar makin mantap.
+
