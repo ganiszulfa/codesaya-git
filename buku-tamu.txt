@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: nmsl
+Github: nmsll
+Nama: Lala
+Website: -
+Pesan: Terima kasih untuk ilmunya, kalo bisa ditambah lebih banyak lagi bhs pemrogramannya 
