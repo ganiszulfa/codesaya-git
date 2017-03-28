@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: Uchiha_KT
+Github: rikiag
+Nama: Riki Agusnaidi
+website: rikiag.me
+Pesan: agak bingung dimateri Git Clone, saya kita menggunakan username di github, ternyata pakai username 'kabayan' hahaa..., ^_^`
