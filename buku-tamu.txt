@@ -941,4 +941,4 @@ CodeSaya: faqihraihan
 Github: faqihraihan
 Nama: Muh. Faqih Raihan
 Website: -
-Pesan: Sangat membantu dalam belajar git ataupun bahasa programming lainnya, tambah lagi fitur bermanfaat lainnya atau bahasa programming lainnya ^_^.
+Pesan: Sangat membantu dalam belajar git ataupun bahasa programming lainnya, tambah lagi fitur bermanfaat lainnya atau bahasa programming lainnya ^_^. Oh iya, buat sertifikat juga jika bisa ^_^.
