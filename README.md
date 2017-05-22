@@ -1,4 +1,4 @@
-# codesaya-git
+# codeisnur-git
 
 Jika anda ingin belajar Git, buka https://codesaya.com/git/
 
