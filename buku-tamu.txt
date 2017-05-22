@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:isnur
+Github: isnur
+Nama: Isnur Muhammad Suryo Margono
+Website: http://isnur.com
+Pesan: SML Tech
+
