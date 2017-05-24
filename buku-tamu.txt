@@ -942,3 +942,10 @@ Github: elsagultom
 Nama: Elsa Gultom
 Website: http://testing.aja.com
 Pesan: Terimakasih loh ya
+
+Entry: 133
+CodeSaya:elsagultom
+Github: elsagultom
+Nama: Elsa Gultom
+Website: http://testing.aja.com
+Pesan: Terimakasih loh ya
