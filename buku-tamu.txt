@@ -935,3 +935,32 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:elsa_gultom
+Github: elsagultom
+Nama: Elsa Gultom
+Website: http://testing.aja.com
+Pesan: Terimakasih loh ya
+
+Entry: 133
+CodeSaya:elsagultom
+Github: elsagultom
+Nama: Elsa Gultom
+Website: http://testing.aja.com
+Pesan: Terimakasih loh ya
+
+Entry: 134
+CodeSaya:test
+Github: test
+Nama: Elsa Gultom
+Website: http://testing.aja.com
+Pesan: Terimakasih loh ya
+
+
+Entry: 135
+CodeSaya:testing
+Github: testing
+Nama: Elsa Gultom
+Website: http://testing.aja.com
+Pesan: Terimakasih loh ya
