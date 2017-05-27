@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:dzakdzak
+Github: dzakdzaks
+Nama: Muhammad Dzaky Rahmanto
+Website: titandroids.blogspot.com
+Pesan: Terimakasih ya, udah bantuin belajar git lebih dalem.
