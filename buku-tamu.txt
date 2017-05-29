@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:raihan_parl
+Github: curujoo
+Nama: Raihan Parlaungan
+Website: mrparlaungan.blogspot.co.id
+Pesan: makasih banyak atas pembelajaran gitnya mas :D
