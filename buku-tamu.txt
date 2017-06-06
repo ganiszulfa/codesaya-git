@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: saih
+Github: saih02
+Nama: Saih
+Website: http://saih.ngangsu.com/
+Pesan: Seru, mudah dipahami, sangat bermanfaat...! Terima kasih CodeSaya!
