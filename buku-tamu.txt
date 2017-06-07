@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: muhammad_abidzar25
+Github: MuhammadAbidzarAbdussalam
+Nama: Muhammad Abidzar Abdussalam
+Website: http://slamgantdroid.blogspot.co.id/
+Pesan: Terimakasih banyak mas untuk tutorial git nya, semoga apa yang mas sampaikan dapat bermanfaat bagi seluruh coder yang ada di Indonesia. Amiiiinnn.
