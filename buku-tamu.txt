@@ -6,7 +6,7 @@
 # - Ubah file ini dengan menambahkan data diri anda di akhir file ini
 # - Dilarang untuk menghapus data yang sudah ada
 # - Format penulisannya seperti berikut:
-# 
+#
 #   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
 #   CodeSaya: [wajib, masukkan username anda di CodeSaya]
 #   Github: [wajib, masukkan username anda di Github]
@@ -48,7 +48,7 @@ Pesan: Kreatif banget , semoga banyak fitur baru
 Entry: 5
 CodeSaya: dinan354
 Github: dinan354
-Nama: Dinan Riqal Firdaus 
+Nama: Dinan Riqal Firdaus
 Website: https://dinanrihal.io
 Pesan: Semoga kedepannya makin maju dan sukses, tambahkan lebih banyak fitur2 gila lainnya
 
@@ -77,7 +77,7 @@ Entry: 9
 Codesaya: jkprasaja
 Github: jkprasaja
 Nama: Jaka
-Website: 
+Website:
 Pesan: Belajar Git di Codesaya menyenangkan dan mudah.
 
 Entry: 10
@@ -91,7 +91,7 @@ Entry: 11
 CodeSaya: Aguuung
 Github: Aguuung
 Nama: Agung Anugerah
-Website: 
+Website:
 Pesan: Seruu nihh.. Ditunggu Updatenyaa.
 
 Entry: 12
@@ -134,7 +134,7 @@ CodeSaya : hikmahgumelar
 Github: hikmahgumelar
 Nama: hikmahgumelar
 Website: Belum ada
-Pesan: yuk mantap   
+Pesan: yuk mantap
 
 Entry: 18
 CodeSaya: didikk
@@ -154,14 +154,14 @@ Entry: 20
 CodeSaya: jojogitu
 Github: jojogitu
 Nama: Joshua Julian Damanik
-Website: 
+Website:
 Pesan: Sangat interaktif dan mudah dipahami, mantap :D
 
 Entry: 21
 CodeSaya: silverknightone
 Github: silverknightone
 Nama: William
-Website: 
+Website:
 Pesan: Belajar terus semoga makin mantap di dalam dunia IT. Untuk mas Ganis, terima kasih karena sudah membuat website ini, terus berjuang dan perbanyak konten materi yang dapat di pelajari.
 
 Entry: 22
@@ -180,7 +180,7 @@ Pesan: Mantap, sangat bermanfaat sekali website edukasi IT nya.
 
 Entry: 24
 CodeSaya: maeyleafv
-Github: setiawanado	
+Github: setiawanado
 Nama: Setiawan
 Website: cushcushgallery.com
 Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro!
@@ -188,14 +188,14 @@ Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro!
 Entry: 25
 CodeSaya: helmithejoe21
 Github: helmithejoe
-Nama: Helmi 
+Nama: Helmi
 Website: -
 Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro! Tp kalo bisa  improve lg aja fitur diskusi nya,terutama fitur untuk mencari cari jawaban dan solusi yang sudah pernah ditanyakan sebelumnya.
 
 Entry: 26
 CodeSaya: zebedeus
 Github: zebedeuspc
-Nama: Zebedeus 
+Nama: Zebedeus
 Website: -
 Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro!
 
@@ -243,8 +243,8 @@ Pesan: Webnya keren. saya belajar banyak disini
 
 Entry: 33
 CodeSaya: agung_gema
-Github: agunggema 
-Nama: agung_gema  
+Github: agunggema
+Nama: agung_gema
 Website: ~
 Pesan: codesaya.com learning by doing...감사합니다 mr ganiseu (가니스)
 
@@ -378,7 +378,7 @@ Entry: 52
 CodeSaya: nugrahas38
 Github: nugrahas38
 Nama: Sandi Nugraha
-Website: nugrahas38.blogspot.com 
+Website: nugrahas38.blogspot.com
 Pesan: maju terus codesaya.com
 
 Entry: 53
@@ -413,7 +413,7 @@ Entry: 57
 CodeSaya: qrizan
 Github: qrizan
 Nama: -
-Website: - 
+Website: -
 Pesan: -
 
 Entry: 58
@@ -449,14 +449,14 @@ CodeSaya: factorchrist
 Github: christiwaan
 Nama: Christiawan
 Website: http://christiawan.github.io/
-Pesan: Tutorial Keren , tambahin ruby dong sama rails 
+Pesan: Tutorial Keren , tambahin ruby dong sama rails
 
 Entry: 63
 CodeSaya: vchezt
 Github: davchezt
 Nama: Leonardo DaVchezt
 Website: http://davchezt.tumblr.com
-Pesan: Mantap om hehehehe 
+Pesan: Mantap om hehehehe
 
 Entry: 64
 CodeSaya: teguholica
@@ -600,7 +600,7 @@ Website: -
 Pesan: tutorial interaktif yang sangat menarik, sangat bermanfaat. thanks ya..
 
 Entry: 84
-CodeSaya: arjilm	
+CodeSaya: arjilm
 Github: arjilm
 Nama: Abdul Jabbar
 Website: -
@@ -618,14 +618,14 @@ Codesaya: ariefulkhakim
 Github: ariefulkhakim
 Nama: ariefulkhakim
 Website: ariefulkhakim.github.io
-Pesan: Wokeh 
+Pesan: Wokeh
 
 Entry: 87
 Codesaya: aswinawien
 Github: aswinawien
 Nama: aswinawien
 Website: aswinawien.github.io
-Pesan: apa saja lah 
+Pesan: apa saja lah
 
 Entry: 88
 CodeSaya: KhoirulAmsori
@@ -642,7 +642,7 @@ Website: Muhazam.github.io
 Pesan: keren, sangat bermanfaat tutornya, semoga nambah lagi tutorialnya...
 
 Entry: 90
-CodeSaya: ikhsanlubis 
+CodeSaya: ikhsanlubis
 Github: IkhsanProgremmer
 Nama : IkhsanProgremmer
 Website : IkhsanProgremmer.github.io
@@ -653,7 +653,7 @@ Codesaya: abdrrahmenz
 Github: abdrrahmenz
 Nama: abdurrahman
 Website: abdrrahmenz.github.io
-Pesan: Josss CodeSaya.com maju terus pantang mundur. 
+Pesan: Josss CodeSaya.com maju terus pantang mundur.
 
 Entry: 92
 CodeSaya: moeljono
@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: m45rud
+Github: m45rud
+Nama: M. Rudianto
+Website: https//masrud.com
+Pesan: Websitenya sangat bermanfaat untuk belajar tentang pemrogramman. Sukses selalu untuk CodeSaya.
