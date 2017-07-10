@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:radianpradhana
+Github: radianpradhana
+Nama: Radian Pradhana
+Website: -
+Pesan: Thanks bro!!
