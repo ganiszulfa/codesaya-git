@@ -950,3 +950,4 @@ CodeSaya:Aligano
 Github: Aligano
 Nama: Zaenal Fanani
 Websit: http://github.com/ github-git
+Pesan: terima kasih
