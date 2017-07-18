@@ -934,4 +934,11 @@ CodeSaya:herman_sugiharto
 Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
-Pesan: Terimakasih ya
+Pesan: Terimakasih ya 
+
+Entry: 132
+CodeSaya:Aligano
+Github: Aligano
+Nama: Zaenal Fanani
+Website: http://github.com/Aligano/github-git
+Pesan: Terima kasih ya
