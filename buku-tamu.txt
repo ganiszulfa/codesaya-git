@@ -918,6 +918,8 @@ Pesan: Tambah bahasa C dong ! !!!
 Entry: 129
 CodeSaya: amoyee
 Github: amoyee
+
+
 Nama: amoyee
 Website: -
 Pesan: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor auctor placerat. Cras lacinia augue quis ligula luctus fringilla.
@@ -934,4 +936,18 @@ CodeSaya:herman_sugiharto
 Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
-Pesan: Terimakasih ya
+Pesan: Terimakasih ya 
+
+Entry: 132
+CodeSaya:Aligano
+Github: Aligano
+Nama: Zaenal Fanani
+Website: http://github.com/Aligano/github-git
+Pesan: Terima kasih ya
+
+Entry: 133
+CodeSaya:Aligano
+Github: Aligano
+Nama: Zaenal Fanani
+Websit: http://github.com/ github-git
+Pesan: terima kasih
