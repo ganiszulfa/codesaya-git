@@ -937,7 +937,7 @@ Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
 
 Entry: 132
-CodeSaya: senju hasirama
+CodeSaya: Senju
 Github: Andisusanto15
 Nama: Andi Susanto
 Website: http://kandidat-juara.blogspot.com
