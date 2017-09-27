@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:merdesa
+Github: siayi
+Nama: Ayi Sumarna
+Website: http://merdesa.id
+Pesan: Salam kenal buat semuanya
