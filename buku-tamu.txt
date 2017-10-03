@@ -98,7 +98,7 @@ Entry: 12
 CodeSaya: malioboro
 Github: rianrajagede
 Nama: Rian Rajagede
-Website: rianrajagede.wordpress.com
+Website: http://rianadam.web.ugm.ac.id/
 Pesan: Mudah dipahami untuk pemula, Semoga bisa terus update dan berkembang
 
 Entry: 13
