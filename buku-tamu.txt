@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: adi_setyo
+Github: adisetyo94
+Nama: adi setyo
+Website: -
+Pesan: Terima kasih tutorial pull requestnya, walaupun masih bingung hehe
+
