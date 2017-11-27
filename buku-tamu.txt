@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:141105151151
+Github: alitaufiqfajar
+Nama: Ali Taufiqfajar
+Website: http://alitaufiqfajar.biz
+Pesan: Terimakasih ya, sanagat membantu saya yang sedang belajar GIT. Semoga bermanfaat !
