@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: FrostLee
+Github: FrostLee77
+Nama: Julian Leonardo
+Website: 
+Pesan: Terimakasih ya, asik buat belajar codingnya nih :)
