@@ -938,7 +938,7 @@ Pesan: Terimakasih ya
 
 Entry: 132
 CodeSaya:kanamichan
-Github: vicoerv
+Github: infused-code
 Nama: Vico
 Website: http://www.vicoervanda.com
 Pesan: ...
