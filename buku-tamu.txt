@@ -936,7 +936,7 @@ Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
 
-Entry: 131
+Entry: 132
 CodeSaya:kanamichan
 Github: vicoerv
 Nama: Vico
