@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:fadli_yunus
+Github: fadliyunus
+Nama: fadli
+Website:-
+Pesan: Tambah lagi bahasa pemrogramanya
