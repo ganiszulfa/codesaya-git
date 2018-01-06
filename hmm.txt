@@ -1,0 +1,944 @@
+﻿## Buku Tamu
+#
+# - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
+# - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
+#
+# - Ubah file ini dengan menambahkan data diri anda di akhir file ini
+# - Dilarang untuk menghapus data yang sudah ada
+# - Format penulisannya seperti berikut:
+# 
+#   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
+#   CodeSaya: [wajib, masukkan username anda di CodeSaya]
+#   Github: [wajib, masukkan username anda di Github]
+#   Nama: [Opsional]
+#   Website: [Opsional]
+#   Pesan: [Opsional]
+#
+# - Berikan satu baris kosong setelah setiap entry-nya
+# - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
+
+Entry: 1
+CodeSaya: ganis
+Github: ganiszulfa
+Nama: Ganis
+Website: http://ganiseu.wordpress.com/
+Pesan: Bagaimana pengalaman belajar Git di Codesaya? Komentar, saran, dan ide sangat dinantikan. Terimakasih.
+
+Entry: 2
+CodeSaya: mystogan
+Github: januri
+Nama: Januri
+Website: http://www.situstarget.com/
+Pesan: Asik seru fun interaktif, kalo bisa ditambah lagi fitur-fiturnya entah apapun itu, ya semoga admin ganis tidak sibuk untuk menambahkan materi lain, gimana kalo dibuatkan juga sertifikat lulus materi? kaya setelah menyelesaikan Hour of Code lalu dapet sertifikat yang atas nama sendiri untuk disimpan dalam jpeg atau pdf. Terimakasih.
+
+Entry: 3
+CodeSaya: syamcode
+Github: syamcode
+Nama: -
+Website: -
+Pesan: -
+
+Entry: 4
+CodeSaya: anefirman
+Github: anefirman
+Nama: Ane Firman
+Website: www.anefirman.com
+Pesan: Kreatif banget , semoga banyak fitur baru
+
+Entry: 5
+CodeSaya: dinan354
+Github: dinan354
+Nama: Dinan Riqal Firdaus 
+Website: https://dinanrihal.io
+Pesan: Semoga kedepannya makin maju dan sukses, tambahkan lebih banyak fitur2 gila lainnya
+
+Entry: 6
+CodeSaya: irmanfrm
+Github: irmanfrm
+Nama: Irman Firmansyah
+Website: -
+Pesan: keren nih, maju terus CodeSaya
+
+Entry: 7
+CodeSaya: codecreativ
+Github: codecreativ
+Nama: Ronald
+Website: garisbumi.com
+Pesan: Go, Open Source Indonesia!
+
+Entry: 8
+CodeSaya: succi23
+Github: succi23
+Nama: Suci Sukawana
+Website: succi-23.blogspot.com
+Pesan: I Love Programming
+
+Entry: 9
+Codesaya: jkprasaja
+Github: jkprasaja
+Nama: Jaka
+Website: 
+Pesan: Belajar Git di Codesaya menyenangkan dan mudah.
+
+Entry: 10
+CodeSaya: ebta
+Github: ebta
+Nama: Ebta Setiawan
+Website: http://ebsoft.web.id
+Pesan: Sipp.. lanjutkan, berbagi ilmu yg bermanfaat..
+
+Entry: 11
+CodeSaya: Aguuung
+Github: Aguuung
+Nama: Agung Anugerah
+Website: 
+Pesan: Seruu nihh.. Ditunggu Updatenyaa.
+
+Entry: 12
+CodeSaya: malioboro
+Github: rianrajagede
+Nama: Rian Rajagede
+Website: rianrajagede.wordpress.com
+Pesan: Mudah dipahami untuk pemula, Semoga bisa terus update dan berkembang
+
+Entry: 13
+CodeSaya : ppabcd
+Github: ppabcd
+Nama: Reza Juliandri
+Website: rezajuliandri.ga
+Pesan: Sangat membantu pemula dalam belajar pemograman
+
+Entry: 14
+CodeSaya : widiexesz
+Github: widihastomo
+Nama: Widi Hastomo
+Website: hastomo.net
+Pesan: Keren gan.. sangat bermanfaat
+
+Entry: 15
+CodeSaya : Bagusa4
+Github: Bagusa4
+Nama: Bagus Ahmad Setiawan
+Website: blog.bagusa4.tk
+Pesan: Membantu programmer pemula :D Maju terus programmer Indonesia !!!
+
+Entry: 16
+CodeSaya : nanto88
+Github: nanto88
+Nama: Leksono Nanto P
+Website: 198.50.189.59:9091 (punyanya transmission, belum punya website :v)
+Pesan: Semoga karena codesaya orang indonesia jadi banyak yang mengerti git, dan membuat/mengembangkan project di github :)
+
+Entry: 17
+CodeSaya : hikmahgumelar
+Github: hikmahgumelar
+Nama: hikmahgumelar
+Website: Belum ada
+Pesan: yuk mantap   
+
+Entry: 18
+CodeSaya: didikk
+Github: didikk
+Nama: Didik Ismawanto
+Website: didikk.github.io
+Pesan: Alternatif untuk MVA, terutama yang belum begitu menguasai bahasa Inggris.
+
+Entry: 19
+CodeSaya : muhamuttaqien
+Github: muhamuttaqien
+Nama: Muhammad Angga Muttaqien
+Website: Belum ada
+Pesan: Terima kasih banyak mas Ganis. Anda sangat menginspirasi. Dari codesaya.com, saya terinspirasi untuk menjadi coder yang lebih baik lagi kedepannya. Sekali lagi, terima kasih. Salam Coder! :)
+
+Entry: 20
+CodeSaya: jojogitu
+Github: jojogitu
+Nama: Joshua Julian Damanik
+Website: 
+Pesan: Sangat interaktif dan mudah dipahami, mantap :D
+
+Entry: 21
+CodeSaya: silverknightone
+Github: silverknightone
+Nama: William
+Website: 
+Pesan: Belajar terus semoga makin mantap di dalam dunia IT. Untuk mas Ganis, terima kasih karena sudah membuat website ini, terus berjuang dan perbanyak konten materi yang dapat di pelajari.
+
+Entry: 22
+CodeSaya: Yoan_Dei
+Github: YoanDei
+Nama: Yoan Dei
+Website: -
+Pesan: Terima Kasih untuk metode Pembelajarannya yang menarik.
+
+Entry: 23
+CodeSaya: ferdhika31
+Github: ferdhika31
+Nama: Ferdhika Yudira
+Website: http://dika.web.id
+Pesan: Mantap, sangat bermanfaat sekali website edukasi IT nya.
+
+Entry: 24
+CodeSaya: maeyleafv
+Github: setiawanado	
+Nama: Setiawan
+Website: cushcushgallery.com
+Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro!
+
+Entry: 25
+CodeSaya: helmithejoe21
+Github: helmithejoe
+Nama: Helmi 
+Website: -
+Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro! Tp kalo bisa  improve lg aja fitur diskusi nya,terutama fitur untuk mencari cari jawaban dan solusi yang sudah pernah ditanyakan sebelumnya.
+
+Entry: 26
+CodeSaya: zebedeus
+Github: zebedeuspc
+Nama: Zebedeus 
+Website: -
+Pesan: Tutorialnya sangat bagus & mudah diikuti, lanjutkan bro!
+
+Entry: 27
+CodeSaya: rikka0612
+Github: hamdi93
+Nama: Hamdi
+Website: hamdiweb.pe.hu
+Pesan: ditunggu kelas belajar laravelnya!
+
+Entry: 28
+CodeSaya: miminkece
+Github: c0nn3x0r
+Nama: fariz
+Website: c0nn3x0r.github.io
+Pesan: ditunggu kelas belajar API gan
+
+Entry: 29
+CodeSaya: aksal
+Github: MNFadillah
+Nama: Fadil
+Website: -
+Pesan: Webnya keren bro, ditunggu ya yang laravel, makasih banyak
+
+Entry: 30
+CodeSaya: azhariejaya
+Github: azhariejaya
+Nama: Azharie Jaya
+Website: http://jackthesystem.blogspot.com/
+Pesan: Mantap gan.. sangat membantu buat belajar, ditunggu laravelnya :D
+
+Entry: 31
+CodeSaya: mrfreedom
+Github: hanipcode
+Nama: Muhammad Hanif
+Website: hanif.telak.ga
+Pesan: Webnya keren. saya open source enthuatist. ijin bergabung suhu :)
+
+Entry: 32
+CodeSaya: codingw
+Github: codingw
+Nama: codingw
+Website: https://boxgue.com
+Pesan: Webnya keren. saya belajar banyak disini
+
+Entry: 33
+CodeSaya: agung_gema
+Github: agunggema 
+Nama: agung_gema  
+Website: ~
+Pesan: codesaya.com learning by doing...감사합니다 mr ganiseu (가니스)
+
+Entry: 34
+CodeSaya: faustaleonardo
+Github: faustaleonardo
+Nama: Fausta Leonardo
+Website: ~
+Pesan: codecademy-nya Indonesia :D
+
+Entry: 35
+CodeSaya: abrahamSN
+Github: abrahamSN
+Nama: Abraham Setyanugraha
+Website: http://abrahamsn.com
+Pesan: suka interaktifnya
+
+Entry: 36
+CodeSaya: jackcyber
+Github: jackcyber
+Nama: Joko Purwanto
+Website:-
+Pesan: Gile.. ++++buat CodeSaya ^^
+
+Entry: 37
+CodeSaya : willydwi77
+Github: willydwi77
+Nama: Willy Sudwihartono
+Website: anomali.free
+Pesan: Tutorial terakhir mantapp!!! lanjutkan perkembangannya.
+
+Entry: 38
+CodeSaya: riann
+Github: riann
+Nama: Rian
+Website: -
+Pesan: ditambah lagi soal-soal nya ^^
+
+Entry: 39
+CodeSaya: k98w
+Github: KeramasWiguna
+Nama: Keramas Wiguna
+Website: Belum Jadi :v
+Pesan: Ditambah lagi dong tutorialnya
+
+Entry: 40
+CodeSaya: blegoh
+Github: blegoh
+Nama: Yusuf Eka Sayogana
+Website: yusufeka.me
+Pesan: tambah python sama docker dong :3
+
+Entry:41
+CodeSaya: ardicool
+Github: ardicool
+Nama: [Opsional]
+Website: [Opsional]
+Pesan: ayo kerja
+
+Entry:42
+CodeSaya: onesinus
+Github: onesinus
+Nama: [Opsional]
+Website: [Opsional]
+Pesan: ayo deadline wkwkwk
+
+Entry: 43
+CodeSaya: rajiv
+Github: rajivsurabe
+Nama: rajiv
+Website: [Opsional]
+Pesan: Ayo Belajar
+
+Entry: 44
+CodeSaya: aidi
+Github: indradaud
+Nama: Indra Daud
+Website: [Opsional]
+Pesan: Laravel kapan nih ?
+
+Entry: 45
+CodeSaya: fitrie
+Github: fitrisyukriasri
+Nama: Fitri Syukriasari
+Website: [Opsional]
+Pesan: Ditunggu Laravelnya gan Ganis :D
+
+Entry: 46
+CodeSaya: hu_ir_alb
+Github: huiralb
+Nama: Husain Irnovi
+Website: huiralb.github.io
+Pesan: 	Andai kita tidak begitu hebat, yang penting kita punya "baju" sendiri.
+		Suatu saat kita bisa hebat dengan "baju" itu.
+
+Entry: 47
+CodeSaya: onecthree
+Nama: Sultan Islami
+website: -
+Pesan: No Idea.
+
+Entry: 48
+CodeSaya: sukhartono
+Github: sukhartono
+Nama: sukhartono
+Website: [Opsional]
+Pesan: pusing pala we...XD
+
+Entry: 69 eh 49
+CodeSaya: jiwantoko
+Github: jiwatoko
+Nama: jiwantoko
+Website: jiwantoko.com
+Pesan: jiwantoko ganteng
+
+Entry: 50
+CodeSaya: bleewah
+Github: dwyor
+Nama: dewa
+Website: dwyor.com
+Pesan: maju terus codesaya.com
+
+Entry: 51
+CodeSaya: abas
+Github: derisdjumadi
+Nama: Abas
+Website: abasdjumadi.web.id (sudah lama mati :) )
+Pesan: maju terus codesaya.com
+
+Entry: 52
+CodeSaya: nugrahas38
+Github: nugrahas38
+Nama: Sandi Nugraha
+Website: nugrahas38.blogspot.com 
+Pesan: maju terus codesaya.com
+
+Entry: 53
+CodeSaya: marksman77
+Github: alcatraz22
+Nama: Muhammad Aji D
+Website: alcasite.com
+Pesan: Ditunggu Materi Learning Laravel 5 nya gan.
+
+Entry: 54
+CodeSaya: wonderway
+Github: ardifirmansyah8
+Nama: Ardi Firmansyah
+Website: -
+Pesan: Request tutorial ReactJS!
+
+Entry: 55
+CodeSaya: pamaloppa
+Github: pamaloppa
+Nama: pamaloppa
+Website: -
+Pesan: Ditunggu materi-materi selanjutnya
+
+Entry: 56
+CodeSaya: ranger_biru
+Github: rangerbiru
+Nama: Ahmad
+Website: www.eventbox.id
+Pesan: materi laravelnya ditunggu ya :)
+
+Entry: 57
+CodeSaya: qrizan
+Github: qrizan
+Nama: -
+Website: - 
+Pesan: -
+
+Entry: 58
+CodeSaya: TamaTamvan
+Github: ren-sf1rst
+Nama: Septian Adhi Tama
+Website: www.tamatamvan.xyz
+Pesan: . . . :)
+
+Entry: 59
+CodeSaya: akbsaputra
+Github: akbsaputra
+Nama: Akbar Saputra
+Website: meonthemovie.blogspot.com
+Pesan: Semoga segera mencakup Ruby atau Python!
+
+Entry: 60
+CodeSaya: aphrodiky
+Github: aphrodiky
+Nama: Dicky
+Website: -
+Pesan: Best Tutorial EVER!!!
+
+Entry: 61
+CodeSaya: ranugoldan
+Github: ranugoldan
+Nama: Ranu Goldan
+Website: ranugoldan.blogspot.com
+Pesan: tuts react.js dongg lagi booming tuh :3
+
+Entry: 62
+CodeSaya: factorchrist
+Github: christiwaan
+Nama: Christiawan
+Website: http://christiawan.github.io/
+Pesan: Tutorial Keren , tambahin ruby dong sama rails 
+
+Entry: 63
+CodeSaya: vchezt
+Github: davchezt
+Nama: Leonardo DaVchezt
+Website: http://davchezt.tumblr.com
+Pesan: Mantap om hehehehe 
+
+Entry: 64
+CodeSaya: teguholica
+Github: teguholica
+Nama: Teguh Arifianto
+Website: http://teguholica.com
+Pesan: Manteb ini
+
+Entry: 65
+CodeSaya: PanduAldi
+Github: PanduAldi
+Nama: Pandu Aldi
+Website: -
+Pesan: Bagus untuk latihan .. :D
+
+Entry: 66
+CodeSaya: piyopi
+Github: piyopi
+Nama: Yopi Zulfadhli
+Website: -
+Pesan: -
+
+Entry: 67
+CodeSaya: genzol
+Github: virusphp
+Nama: Slamet Sugandi
+Website: htpp://mangrovepark.web.id
+Pesan: Berbagi pengalaman dan ilmu bersama lebih menyenangkan
+
+Entry : 68
+CodeSaya : hadyansyahaziz
+GIthub: hadyasnsyahaziz
+Nama: hadyansyahaziz
+website : -
+pesan _
+
+Entry : 69
+CodeSaya : arcestia
+GIthub: arcestia
+Nama: Laurensius Jeffrey Chandra
+website : http://me.arcestia.id
+pesan: -
+
+Entry : 70
+CodeSaya : sauufi
+GIthub: sauufi
+Nama: Agus Saufi
+website : http://sering.ml
+pesan: -
+
+Entry : 71
+CodeSaya : aryfirmansah
+GIthub : aryfirmansah
+Nama : Arif Yuni Firmansah
+Website : -
+Pesan : happy Banget belajar di CodeSaya.com . Mudah sekali dipahami. Smoga tetep istiqomah free course ..hahaha
+
+Entry : 72
+CodeSaya : Aldhitya
+GIthub: AldhityaSimpel
+Nama: Aldhitya Prasetya
+website : -
+pesan: Mencari ilmu dengan cara yang kreatif
+
+Entry : 73
+CodeSaya: riyadh11
+Github: riyadh11
+Nama: Ahmad Riyadh Al Faathin
+Website: www.faathin.com
+Pesan: UPDATE C++,JAVA,Python dan pengembangan API dong.
+
+Entry: 74
+CodeSaya: Rambers
+Github: rambers
+Nama: Rahmad
+Website: https://rambers.com/
+Pesan: Semoga CodeSaya makin maju dan banyak fitur yang baru agar teman-teman yang ingin belajar makin nyaman.
+
+Entry: 75
+CodeSaya: nahraf31
+Github: nahraf31
+Nama: Muhamad Rizqi Farhan
+Website: -
+Pesan: -
+
+Entry: 76
+CodeSaya: rendito
+Github: rendito
+Nama: Rendito S
+Website: renditosulantio.com
+Pesan: Keep Calm and Love Programming
+
+Entry: 77
+CodeSaya: herusdianto
+Github: herusdianto
+Nama: Heru Rusdianto
+Website: -
+Pesan: Matur suwun mas
+
+Entry: 78
+CodeSaya: TOPP
+Github: imtopp
+Nama: Taufiq Okta Pratama Putra
+Website: -
+Pesan: Hahaha masih pusing tp better lah dibanding pertama mulai training hahaha..
+
+Entry: 79
+CodeSaya: jezqhiel
+Github: jezqhiel
+Nama: Yehezkiel Sentosa
+Website: http://www.hezqi.com/
+Pesan: May the force be with you.
+
+Entry: 80
+CodeSaya: dantalian
+Github: SetengahKucing
+Nama: Rizwan Yuniarto
+Website: -
+Pesan: Pusing @_@.
+
+Entry: 81
+<<<<<<< HEAD:buku-tamu.txt
+CodeSaya: rifrandz
+Github: rifrandz
+Nama: Riyanto Franskly Pangaribuan
+Website: -
+Pesan: semoga tutorialnya makin lengkap, seandainya ada yang bisa saya bantu akan sangat menyenangkan
+
+Entry: 82
+CodeSaya: zihadrizkyef
+Github: zihadrizkyef
+Nama: Zihad Rizky Edwin Fikri
+Website: zihadrizkyef.github.io
+Pesan: Mantap broh
+
+Entry: 83
+CodeSaya: aianamie
+Github: aianamie
+Nama: Rahmi Novita
+Website: -
+Pesan: tutorial interaktif yang sangat menarik, sangat bermanfaat. thanks ya..
+
+Entry: 84
+CodeSaya: arjilm	
+Github: arjilm
+Nama: Abdul Jabbar
+Website: -
+Pesan: semoga tutorialnya makin lengkap, terimakasih sangant bermanfaat
+
+Entry: 85
+CodeSaya: rahmandikahaekal
+Github: rahmandikahaekal
+Nama : Rahmandikahaekal
+Website : rahmandikahaekal.github.io
+Pesan : lumayan lahh
+
+Entry: 86
+Codesaya: ariefulkhakim
+Github: ariefulkhakim
+Nama: ariefulkhakim
+Website: ariefulkhakim.github.io
+Pesan: Wokeh 
+
+Entry: 87
+Codesaya: aswinawien
+Github: aswinawien
+Nama: aswinawien
+Website: aswinawien.github.io
+Pesan: apa saja lah 
+
+Entry: 88
+CodeSaya: KhoirulAmsori
+Github: KhoirulAmsori
+Nama: Khoirul Amsori
+Website: -
+Pesan: Terima Kasih CodeSaya, berkat website ini saya bisa belajar Python dan Git dengan Bahasa Indonesia.
+
+Entry: 89
+Codesaya: Muhazam
+Github: Muhazam
+Nama: Muhazam
+Website: Muhazam.github.io
+Pesan: keren, sangat bermanfaat tutornya, semoga nambah lagi tutorialnya...
+
+Entry: 90
+CodeSaya: ikhsanlubis 
+Github: IkhsanProgremmer
+Nama : IkhsanProgremmer
+Website : IkhsanProgremmer.github.io
+Pesan : bermanfaat
+
+Entry: 91
+Codesaya: abdrrahmenz
+Github: abdrrahmenz
+Nama: abdurrahman
+Website: abdrrahmenz.github.io
+Pesan: Josss CodeSaya.com maju terus pantang mundur. 
+
+Entry: 92
+CodeSaya: moeljono
+Github: moeljono
+Nama: Moeljono
+Website: https://github.com/moeljono
+Pesan: Good tutorial.
+
+Entry: 93
+CodeSaya: zulhilmi
+GitHub: HilmiZul
+Nama: Zul Hilmi
+Website: -
+Pesan: Haturnuhun, ganiseu-hyung :D
+
+Entry: 94
+CodeSaya: ajikamaludin
+Github: ajikamaludin
+Nama: Aji Kamaludin
+Website: https://ajikamaludin.blogspot.com
+Pesan: Git Super Keren :D Salam Kenal Buat Yang ke 95
+
+Entry: 95
+CodeSaya: adityasakti
+Github: adityasakti
+Nama: Aditya Sakti
+Website: -
+Pesan: TOP MARKOTOP
+
+Entry: 96
+CodeSaya: Muli13
+Github: Muli05
+Nama: Muhamad Ali Nurdin
+Website: -
+Pesan: Ini Bagus ...
+
+Entry: 97
+CodeSaya: yobelliandri9
+Github: yobel9
+Nama: Yobel Liandri
+Website: -
+Pesan: Mantap :D
+
+Entry: 98
+CodeSaya: ugho
+Github: ugho
+Nama: Yuggo Afrianto
+Website: -
+Pesan: Nice & Cool :D
+
+Entry: 99
+CodeSaya: yusuf1998
+Github: yusuf1998
+Nama: Yusuf Habibi
+Website: -
+Pesan : Wow Entry ke 99 :D Sukses terus code saya :D
+
+Entry: 100
+CodeSaya: ZihxS
+Github: ZihxS
+Nama: Muhamamd Saleh Solahudin
+Website: -
+Pesan: Belajar Coding Di CodeSaya.com Sangat Mengasyikkan!! :D
+
+Entry: 101
+CodeSaya: yoyodoank
+Github: nugrohoyp18
+Nama: yoyodoank
+Website: micromediamobile[dot]net
+Pesan: Mantap Bro ...
+
+Entry: 102
+CodeSaya: tob47
+Github: tob47
+Nama: tobi
+Website: sugihcode.blogspot.com
+Pesan: Sinau
+
+Entry: 103
+CodeSaya: Genjid11
+Github: Genjid11
+Nama: Muhammad Zidni Ngilma
+Website: http://zidev9892.blogspot.co.id/
+Pesan: Codesaya.com memang MANTAB ... semoga ke depannya bisa terus jaya .. Good Luck !!
+
+Entry: 104
+CodeSaya: satyakresna
+Github: satyakresna
+Nama: Satya Kresna
+Website: https://linkedin.com/satyakresna
+Pesan: Semangat tim CodeSaya!:)
+
+Entry: 105
+CodeSaya: abuabdirrahman
+Github: abu-abdirrahman
+Nama: Safarul Muqoil
+Website: -
+Pesan: Mas Ganis, tambah lagi donk bahasa pemrogramannya,
+
+Entry: 106
+CodeSaya: doublegunz
+Github: doublegunz
+Nama: Gun Gun Priatna
+Website: -
+Pesan: Semoga ilmunya berkah... :)
+
+Entry: 107
+CodeSaya: ededen31
+Github: ededen31
+Nama: Encep Deden
+Website: -
+Pesan: Semoga Codesaya lebih banyak bahasa pemrogramannya! Biar bisa terus belajar, bayar juga gapapa! :-)
+
+Entry: 108
+CodeSaya: Hyuwah
+Github: Hyuwah
+Nama: Muhammad Wahyudin
+Website: http://hyuwah.github.io
+Pesan: :clap:
+
+Entry: 109
+CodeSaya: rikyriyanto
+Github: slametriky
+Nama: -
+Website: -
+Pesan: Bagus, Terimakasih banyak
+
+Entry: 110
+CodeSaya: sugidaffection
+Github: sugidaffection
+Nama: Sugi
+Website: -
+Pesan: :)
+
+Entry: 111
+CodeSaya: Alif_Ilyasa
+Github: NurAlif
+Nama: Nur Alif Ilyasa
+Website: -
+Pesan: Ditunggu bahasa c-c nya...!
+
+Entry: 112
+CodeSaya: mufidhadi
+Github: mufidhadi
+Nama: Mufid Hadi
+Website: -
+Pesan: codesaya kece akut...! terimakasih codesaya.com .saya jadi banyak dapet ilmu yang selama ini saya cari-cari banget. semoga codesaya.com semakin besar dan kece..!
+
+Entry: 113
+CodeSaya: M_Wiguna_Saputra
+Github: mwiguna
+Nama: M. Wiguna Saputra
+Website: http://sentralteknologi.com/
+Pesan: Sangat bagus dan interaktif, hanya sepertinya materinya perlu ditambah. terimakasih
+
+Entry: 114
+CodeSaya: Gismu
+Github: Gismu
+Nama: -
+Website: -
+Pesan: -
+
+<<<<<<< HEAD
+Entry: 115
+CodeSaya: bachtiar
+Github: bachtiarsdk
+Nama: Bachtiar Amrullah
+Website: www.jalantuma.blogspot.co.id
+Pesan: Good job Codesaya
+
+Entry: 116
+CodeSaya : waldiirawan
+Github : https://github.com/waldiirawan
+Nama : Waldi Irawan
+Website : waldiirawan.id icoding.id
+Pesan : ...
+
+Entry: 117
+CodeSaya: dhanykoe
+Github : dhanykoe
+Nama : dhany
+Website : -
+Pesan : tambahkan lagi materinya master....ehehehe
+
+Entry: 118
+CodeSaya: irvanyale
+Github: irvanyale
+Nama: Irvan Wahyu N
+Website: www.irvanyale.com
+Pesan: Terima kasih ilmunya gan :)
+
+Entry: 119
+CodeSaya: pendi_qibee
+Github: pendi-eventindo
+Nama: pendi
+Website: lagirame.blogspot.com
+Pesan: media belajar yang seru
+
+Entry: 120
+CodeSaya: kevingundam
+Github: kevingundam
+Nama: Kevin Ericson
+Website: -
+Pesan: Perbanyak bahasa pemrograman. Terima kasih.
+
+Entry: 121
+CodeSaya: febriantonugroho
+Github: febriantonugroho
+Nama: Febrianto Nugroho
+Website: www.febriantonugroho.com
+Pesan: Codesaya mampu mengemas materi berbobot tinggi dengan bahasa yang mudah dicerna. Mantabbb
+
+Entry: 122
+CodeSaya: jambari
+Github: jambari
+Nama: Jambari
+Website: facebook/jambari
+Pesan: Tambah kelas Djangooo.
+
+Entry: 123
+CodeSaya: reinhard
+Github: reinhardalex
+Nama: ReinHard Alexander Kupa
+Website: http://renhardalex.blogspot.co.id/
+Pesan: semoga kelas di codesaya makin banyak :D, dan codesaya tersu berkembang.
+
+Entry: 124
+CodeSaya: bangkho
+Github: bangkho
+Nama: Ahmad Khoirudin
+Website: www.clashroyalegg.cf
+Pesan: -
+
+Entry: 125
+CodeSaya: antonius
+Github: antonius1712
+Nama: Antonius christian
+Website: www.batavianet.com
+Pesan: -
+
+Entry: 126
+CodeSaya: wkwksama
+Github: wkwksama
+Nama: Muhammad Arji' Sharofuddin
+Website: wkwk.web.id
+Pesan: -
+
+Entry: 127
+CodeSaya: pendiplp
+Github: pendiplp
+Nama: Fendy Kharisma
+Website: -
+Pesan: Terima kasih banyak, belajar di codesaya sangat menyenangkan, beda dari yg lainnya. Terus dikembangin ya, saya tunggu kelas2 berikutnya..
+
+Entry: 128
+CodeSaya: WCandra64
+Github: WCandra64
+Nama: Wahyu Candra
+Website: -
+Pesan: Tambah bahasa C dong ! !!!
+
+Entry: 129
+CodeSaya: amoyee
+Github: amoyee
+Nama: amoyee
+Website: -
+Pesan: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor auctor placerat. Cras lacinia augue quis ligula luctus fringilla.
+
+Entry: 130
+CodeSaya: bondan23
+Github: bondan23
+Nama: Bondan Eko Prasetyo
+Website: https://bondan.biz
+Pesan: Terima kasih untuk tutorial pull requestnya,sangat bermanfaat.!!
+
+Entry: 131
+CodeSaya:herman_sugiharto
+Github: ezioalzeusi
+Nama: Herman Sugiharto
+Website: http://noesantara.byethost10.com
+Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: sin_
+Github: irfanham
+Nama: Irfan Hamami
+Website: -
+Pesan: :)
