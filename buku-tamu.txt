@@ -1,4 +1,4 @@
-﻿## Buku Tamu
+## Buku Tamu
 #
 # - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
 # - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
@@ -935,10 +935,3 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
-
-Entry: 132
-CodeSaya: yuslianto
-Github: yuslianto
-Nama: Yuslianto
-Website: -
-Pesan: Sukses selalu dan jadi manusia yang bermanfaat untuk manusia lainnya dalam hal positif
