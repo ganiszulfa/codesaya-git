@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:ShadowMasters
+Github: ShadowMasters13
+Nama: Guntur Anugroho P A
+Website: gk ada
+Pesan: Tambahin tutorial programming lain di codesaya dong :3
