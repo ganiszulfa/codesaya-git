@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:IhwanID
+Github: IhwanID
+Nama: Ihwan Dede
+Website: http://fastplush.com
+Pesan: Thanks codesaya untuk tutorial git nya :)
