@@ -935,3 +935,9 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: Mr_h1l4n9
+Github: Mrh1l4n9
+Website: http://exemple.com
+Pesan: Terimakasih
