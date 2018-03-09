@@ -437,6 +437,13 @@ Nama: Dicky
 Website: -
 Pesan: Best Tutorial EVER!!!
 
+Entry: 60
+CodeSaya: aphrodiky
+Github: aphrodiky
+Nama: Dicky
+Website: -
+Pesan: Best Tutorial EVER!!!
+
 Entry: 61
 CodeSaya: ranugoldan
 Github: ranugoldan
@@ -704,6 +711,7 @@ Nama: Yuggo Afrianto
 Website: -
 Pesan: Nice & Cool :D
 
+
 Entry: 99
 CodeSaya: yusuf1998
 Github: yusuf1998
@@ -935,3 +943,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: andtomat
+Github: andtomat
+Nama: Yoshua
+Website: -
+Pesan: Nice
