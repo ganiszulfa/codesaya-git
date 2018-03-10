@@ -105,8 +105,8 @@ Entry: 13
 CodeSaya : ppabcd
 Github: ppabcd
 Nama: Reza Juliandri
-Website: rezajuliandri.ga
-Pesan: Sangat membantu pemula dalam belajar pemograman
+Website: rezajuliandri.com
+Pesan: Sangat membantu pemula dalam belajar git
 
 Entry: 14
 CodeSaya : widiexesz
