@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:faustaleonardo62aus
+Github: faustaleonardo62aus
+Nama: Fausta
+Website: https://faustaleonardo.bitbucket.io/portfolio/
+Pesan: ~
