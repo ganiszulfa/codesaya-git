@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:rivorizaldi
+Github: rivorizaldi
+Nama: Rivo Rizaldi
+Website: rivorizaldi.com
+Pesan: Semoga ke depannya semakin banyak bahasa pemrograman yang codesaya bisa ajarkan. Lanjutkan !!
