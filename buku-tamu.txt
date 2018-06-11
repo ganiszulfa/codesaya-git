@@ -7,10 +7,10 @@
 # - Dilarang untuk menghapus data yang sudah ada
 # - Format penulisannya seperti berikut:
 # 
-#   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
-#   CodeSaya: [wajib, masukkan username anda di CodeSaya]
-#   Github: [wajib, masukkan username anda di Github]
-#   Nama: [Opsional]
+#   Entry: [132]
+#   CodeSaya: [Pr070n]
+#   Github: [Pr070n123]
+#   Nama: [Muhammad Tegar Ramadhan]
 #   Website: [Opsional]
 #   Pesan: [Opsional]
 #
