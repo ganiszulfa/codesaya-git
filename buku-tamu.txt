@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: butdy
+Github: butdy
+Nama: Budi Utomo
+website: http://dmugogo.blogspot.com/
+Pesan: Manteb banget nih tutorialnya, gak pake sedikit dan pastinya Banyak sekali membantu codesaya dalam proses belajar saya
