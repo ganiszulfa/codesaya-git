@@ -942,3 +942,4 @@ Github: butdy
 Nama: Budi Utomo
 website: http://dmugogo.blogspot.com/
 Pesan: Manteb banget nih tutorialnya, gak pake sedikit dan pastinya Banyak sekali membantu codesaya dalam proses belajar saya
+Pesan2: Mantabs Jaya
