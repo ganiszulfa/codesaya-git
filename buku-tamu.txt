@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: fnur32
+Github: fnur32
+Nama: Fitrian Setyono
+Website: null
+Pesan: mantap.
