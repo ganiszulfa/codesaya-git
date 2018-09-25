@@ -18,6 +18,7 @@
 # - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
 
 Entry: 1
+
 CodeSaya: ganis
 Github: ganiszulfa
 Nama: Ganis
@@ -935,3 +936,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: xcoderind
+Github: ajglo
+Nama: xcoderind
+Website: http://xcoder.wordpress.com/
+Pesan: Bagaimana pengalaman belajar Git di Codesaya? Komentar, saran, dan ide sangat dinantikan. Terimakasih.
