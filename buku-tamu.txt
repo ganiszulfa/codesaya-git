@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:nasrulfuadz
+Github: nasrulfuad
+Nama: Nasrul Fuad
+Website: -
+Pesan: Ini saya belajar untuk ikut Hacktoberfest 2018
