@@ -1,4 +1,4 @@
-## Buku Tamu
+﻿## Buku Tamu
 #
 # - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
 # - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
@@ -937,7 +937,7 @@ Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
 
 Entry: 132
-CodeSaya:andjaradji
+CodeSaya: andjaradji
 Github: Andjaradji
 Nama: Andjaradji Rooseno
 Website: 
