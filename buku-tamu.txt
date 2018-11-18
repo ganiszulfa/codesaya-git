@@ -934,4 +934,15 @@ CodeSaya:herman_sugiharto
 Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
+Entry: 131
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: riziq21
+Github: cygnus7seven
+Nama: Riziq
+Website: -
+Pesan: Terimakasih Codesaya.com
+
+
+
