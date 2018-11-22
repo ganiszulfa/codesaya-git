@@ -941,4 +941,4 @@ CodeSaya: VICV
 Github: VicVo
 Nama: Victor
 Website: www.altrasystem.com
-Pesan: Terima kasih sudah dibuatkan codesaya.com selesaikan sampai JavaScript. SEMANGAT!!!
+Pesan: Terima kasih sudah dibuatkan codesaya.com selesaikan sampai JavaScript. SEMANGAT!!! Jangan Menyerah
