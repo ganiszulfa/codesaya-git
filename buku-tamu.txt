@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:mryoga1995
+Github: mryoga
+Nama: Yoga Setiawan
+Website: http://fb.com/arioki1
+Pesan: Tolong web nya di perbarui terus ya, sepertinya forum nya mati, padahal web ini keren, saya belajar koding dan menemukan logika pemrograman PHP di web codesaya.com, trimkasih Code Saya :)
