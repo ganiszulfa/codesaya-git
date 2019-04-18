@@ -1,4 +1,4 @@
-## Buku Tamu
+﻿## Buku Tamu
 #
 # - File ini dibuat dalam rangka memeriksa tingkat pemahaman pelajar di soal berjudul 'Membuat Pull Request' di CodeSaya
 # - Setelah melakukan pull request, selesaikan soal "Membuat Pull Request" sesegera mungkin.
@@ -18,11 +18,11 @@
 # - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
 
 Entry: 1
-CodeSaya: ganis
-Github: ganiszulfa
-Nama: Ganis
+CodeSaya: Alvin710
+Github: Alvin0710
+Nama: Alvin
 Website: http://ganiseu.wordpress.com/
-Pesan: Bagaimana pengalaman belajar Git di Codesaya? Komentar, saran, dan ide sangat dinantikan. Terimakasih.
+Pesan: Mantap langsung praktek gitu
 
 Entry: 2
 CodeSaya: mystogan
