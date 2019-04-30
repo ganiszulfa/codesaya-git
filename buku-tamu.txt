@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: abrag75
+github: abrag75
+Nama: aep
+website: -
+Pesan: membantu belajar git nih
