@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:ardimr
+Github: ardimr
+Nama: Rizky Ardi Maulana
+Website: http://meradlah.wordpress.com
+Pesan: Terima kasih, semoga kontennya semakin berkembang.
