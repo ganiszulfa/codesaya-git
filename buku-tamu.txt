@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:rahadi28
+Github: rahadi28
+Nama: Rahadi
+Website:
+Pesan: Saya menyesal baru menemukan platform belajar programming codesaya.com Kenapa gak dari dulu ya :'(
