@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:ibrahimalanshor
+Github: ibrahimalanshor
+Nama: Ibrahim Al ANnshor
+Website: http://ibrahimalanshor.github.io
+Pesan: Mohon maaf lahir dan batin
