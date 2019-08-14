@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: angga
+Github: anggaip
+Nama: Angga Indriya P
+Website: https://www.anggaindriya.net/
+Pesan: Terimakasih sudah dikasih kesempatan untuk berkontribusi di tutorial pull request
