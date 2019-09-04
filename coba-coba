@@ -1,0 +1,8 @@
+AEP1106@codesaya:/code$ belajar-git-keren
+Repo belajar-git-keren ditemukan ^_^.
+AEP1106@codesaya:/code$ AEP1106
+Username anda: AEP1106
+AEP1106@codesaya:/code$ git push -u origin master
+Kami tidak melihat repo git push -u origin master di git remote add AEP1106/belajar-git-keren.git.
+AEP1106@codesaya:/code$ git remote add AEP1106/belajar-git-keren.git
+Username anda: git remote add AEP1106/belajar-git-keren.git
