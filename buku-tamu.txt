@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: 8bit
+Github: ilhamtaufiq
+Nama: Ilham Taufiq
+Website: risalahsply.wordpress.com
+Pesan: Terima Kasih
+
