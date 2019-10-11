@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: iqbalsulistyo
+Github: iqbalsulistyo
+Nama: Iqbal Sulistyo
+Website: -
+Pesan: Cara penyampaian materi yang mudah dipahami, pastinya sangat bermanfaat untuk yang masih belajar. Saran untuk mas ganiszulfa semoga bisa share juga terkait materi Big Data seperti Hadoop,Spark,HBase,Hive,dll thanks, salam SUKSES SEMUA!!!
+
