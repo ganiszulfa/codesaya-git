@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 131
+CodeSaya:rifzt
+Github: rift
+Nama: rift
+Website: http://noesantara.byethost10.com
+Pesan: Terimakasih ya
