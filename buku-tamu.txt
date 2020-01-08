@@ -935,3 +935,17 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: rifqieka
+Github: rifqieka
+Nama: Rifqi Eka Hardianto
+Website: rifqinotes.wordpress.com
+Pesan: terimakasih atas bimbingannya
+
+Entry: 133
+CodeSaya: rifqieh
+Github: rifqieh
+Nama: Rifqi Eka Hardianto
+Website: rifqinotes.wordpress.com
+Pesan: terimakasih atas bimbingannya
