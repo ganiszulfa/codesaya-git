@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: RidwanTaufik
+Github: RidwanTaufik526
+Nama: Moch Ridwan Taufik Alamsyah
+Website: instagram.com/technoseeker15
+Pesan: Thanks Ganis For The Best Lecture You've give to Us in codesaya.com, i am very love this git tutorial 
