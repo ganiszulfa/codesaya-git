@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: ramadhanbordasariputra
+Github: dhandoank
+Nama: Ramadhan Bordasari Putra
+Website: https://begawedigital.com
+Pesan: Terima kasih untuk semua pelajaran di codesaya.com 
