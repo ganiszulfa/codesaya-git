@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+entry: 132
+codesaya: sobadrdb
+github: sobadrdb
+nama: prast
+website: none
+pesan: nona
