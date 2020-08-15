@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: zakiul
+Github: zakiyul
+Nama: Lalu Muhamad zakiul fikri
+Website: https://zakiyul.github.io
+Pesan: Cool cool!!
