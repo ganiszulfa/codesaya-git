@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: mabdip
+Github : abdipriyangga
+Nama : Muhammad Abdi Priyangga
+Website : -
+Pesan : Belajar di CodeSaya sungguh sangat menarik dan bermanfaat. Tetap Semagat dan Semoga Sukses Selalu!
