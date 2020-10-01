@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:eka0789
+Github: eka0789
+Nama: Eka Prasetyo
+Website: 
+Pesan: Terimakasih banyak berkat codesaya.com jadi banyak menambah pemahaman tentang git
