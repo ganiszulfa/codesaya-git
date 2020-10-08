@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+Codesaya: fdisk
+Github: blelenk
+Nama: Soeharto
+Website: www.presidensoeharto.com
+pesan: amankeun
+
