@@ -934,6 +934,7 @@ CodeSaya:herman_sugiharto
 Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
+Pesan: Terimakasih ya
 
 Entry: 132
 Codesaya: 2912(Devi Fitrianingsih)
@@ -941,4 +942,3 @@ Github: devifi29
 Nama: Devi Fitrianingsih
 Website: -
 Pesan: Semoga di Codesaya semakin berkembang dan lebih banyak bahasa pemrogrammannya....
-Pesan: Terimakasih ya
