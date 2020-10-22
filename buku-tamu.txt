@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:greezyzilla
+Github: greezyzilla
+Nama: Gunawan Wahyu
+Website: greezyzilla.site
+Pesan: Keren, semoga codesaya bisa lebih aktif dan berkembang kedepannya.
