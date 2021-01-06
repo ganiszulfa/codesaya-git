@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: silver_link3
+Github: Wing-Dimas
+Nama: Dimas Wing
+Website: -
+Pesan: belajar git dan github
