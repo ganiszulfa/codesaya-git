@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: dindinG41TR3
+Github: dindinG41TR3
+Nama: Dindin Hernawan
+Website: http://dindinhernawan.blogspot.co.id
+Pesan: Terimakasih ya, pull request
