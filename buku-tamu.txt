@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: ayreeneputri
+Github: ayreeneputri
+Nama: Ayreene Putri Talentia
+Website: https://ayreeneputri.github.io/mediapenyimpanebook.github.io/
+Pesan: Oke
