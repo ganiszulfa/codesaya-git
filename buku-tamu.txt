@@ -7,12 +7,12 @@
 # - Dilarang untuk menghapus data yang sudah ada
 # - Format penulisannya seperti berikut:
 # 
-#   Entry: [Tulis angka, tambah 1 dari angka entry di atas anda]
-#   CodeSaya: [wajib, masukkan username anda di CodeSaya]
-#   Github: [wajib, masukkan username anda di Github]
-#   Nama: [Opsional]
+#   Entry: 132
+#   CodeSaya: ilmaisme
+#   Github: ilmaisme
+#   Nama: Ilma A
 #   Website: [Opsional]
-#   Pesan: [Opsional]
+#   Pesan: sukses buat CodeSaya, diperbanyak modul belajar yang lain ya :D
 #
 # - Berikan satu baris kosong setelah setiap entry-nya
 # - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
