@@ -1,0 +1,61 @@
+git = repository terdistribusi  
+
+modified = file is modified but not yet saved / marked
+staged = file is saved / marked but not yet uploaded to VC
+committed  = file is saved into VC
+
+apt-get install git = install git in debian  based distro
+yum install git-core = install git in distro based on yum package
+
+git init = initialize repository
+git config --global user.email "mail@mail.co" = configure global user's email
+git config --global user.name "nama anda" = configure global username
+git status = directory information
+
+git add = add file to staged
+git add *.php = assign all php file
+git add .  = assign all file
+git add garuda.php terbang.css = assign multiple file
+
+git status = changes information  
+git commit -m  "" = commit file
+git log = display commit log
+git log --oneline = display commit log in one line
+git log --author='Kabayan' = display commit log based on author
+git log nama_file.php = display commit log based on file
+git log nomor_commit = display commit log based on commit number (first 5 number)
+git diff = display differences in file (in modified state)
+get diff nama_file.php = display  differences in  one file (in modified state)
+
+git checkout = revert  file from modified 
+git reset = revert file from staged to modified 
+
+git checkout HEAD~3 nama_file.php = revert committed file (in the last 3 commit)
+git checkout nomor_commit nama_file.php = revert committed  file into commit number {}
+git revert nomor_commit -n = revert all committed file into commit number {}
+
+git branch nama_branch = create new branch in git repository
+git checkout nama_branch = move to the specified branch
+
+ls = listing files and folders in current directory
+git merge nama_branch = merge the specified branch into branch master
+
+git remote -v = listing available remote repository
+git remote add nama url = add new remote repository
+git remote rm nama = remove remote repository
+git remote rename nama_lama nama_baru = modify remote repository name
+
+git pull nama_remote nama_branch =  pull files from remote repository
+git fetch nama_remote = review revisions from remote repository (this will create new branch into local repository, ex: nama_remote/nama_branch)
+git log nama_remote/nama_branch  = display log from branch in remote repository
+git push nama_remote nama_branch = save committed files from local repository into remote repository
+cat nama_file.php = display conflict from the specified file
+
+git clone repo_link = cloning repository from remote repository into local repository
+
+git --help = documentation
+git command --help (ex: git status --help)
+
+
+
+ 
