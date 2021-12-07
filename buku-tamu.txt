@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: fahmisyahya1
+Github: Fahmisyahya
+Nama: Fahmi Syahrul Yahya
+Website: https://fahmisyahya.hashnode.dev
+Pesan: Sangat bermanfaat, terima kasih.
