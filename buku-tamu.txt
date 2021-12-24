@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:iNCodiNK
+Github: AbelJollando
+Nama: Abel Jollando
+Website: -
+Pesan: Terima kasih dan sangat bermanfaat untuk memahami GIT, mungkin ada course mengenai stored procedure kedepannya hehe
