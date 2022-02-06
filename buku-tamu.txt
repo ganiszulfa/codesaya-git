@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+Codesaya: joshuaaugustpratikno
+Github: joshcoder1289ap
+Nama: Joshua August Pratikno
+Website:
+Pesan: Terima kasih karena sudah membuat CodeSaya. Saya suka dengan tampilannya yang interaktif dan menarik. Saya menyarankan agar username CodeSaya bisa diganti di ubah profil. Semoga kelas JavaScript bisa dibuka dan semoga CodeSaya bisa menjadi lebih baik lagi. Saya akan berusaha sebisa mungkin untuk membantu memperbaiki CodeSaya.
