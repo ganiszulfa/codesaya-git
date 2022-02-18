@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: fachrifauzi
+Github: fachrifauzi
+Nama: Muhammad Fachri Fauzi
+Website: https://fachrifauzi.xyz
+Pesan: Berkata baik atau diam
