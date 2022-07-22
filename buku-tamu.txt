@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: aditira
+Github: aditira
+Nama: Aditira Jamhuri
+Website: aditira.github.io/personal-profile-page
+Pesan: Mantep banget ini buat belajar. :D
