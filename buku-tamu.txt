@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:FXBimaYudhaPratama
+Github: YuIsCode
+Nama: FX Bima Yudha Pratama
+Website: https://skuy-replay.blogspot.com/, https://life-for-coding.blogspot.com/
+Pesan: Terima kasih banyak sudah membantu saya dalam belajar GIT.
