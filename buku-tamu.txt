@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:Mshrr
+Github: maulmshr
+Nama: Maulana Manshur
+Website: https://maulmshr.my.id
+Pesan: Terimakasih karena tutorialnya sangat berguna, kalo bisa ditambahin sertifikat sebagai bukti pembelajaran
