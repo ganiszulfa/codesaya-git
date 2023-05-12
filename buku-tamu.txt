@@ -941,4 +941,4 @@ CodeSaya:casudin
 Github: casudinlix
 Nama: Casudin
 Website: https://support-it.web.id
-Pesan: Muhun
+Pesan: Terimkasih
