@@ -941,4 +941,4 @@ CodeSaya: esmi
 Github: esmifitri
 Nama: Esmi
 Website: -
-Pesan: Terimakasih.
+Pesan: Terimakasih ya.
