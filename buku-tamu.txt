@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: shevent
+Github: Shevent
+Nama: AS
+Website: -
+Pesan: Terima kasih banyak, belajar di codesaya sangat menyenangkan, tapi kadang membingungkan. saya berharap kedepannya Intruksinya tidak terlalu membingungkan untuk yang baru memulai di CODESAYA. thank You. 
