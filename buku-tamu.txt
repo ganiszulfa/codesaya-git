@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: azis.tms
+Github: azis-tms
+Nama: Azis
+Website: https://tms-consulting.co.id/
+Pesan: Terimakasih untuk semuanya.
+
