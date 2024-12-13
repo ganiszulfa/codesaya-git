@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:mastrie
+Github: mastrie90
+Nama: Yuniarto Triadi
+Website: https://trie.my.id
+Pesan: Terimakasih ya
