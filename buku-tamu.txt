@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSasya: diecko46
+Github: Dicko46
+Nama: Dicko Rahmansyah
+Website: -
+Pesan: Terimakasih untuk tutorialnya, tolong update tutorial untuk python agar sesuai dengan versi terbaru
