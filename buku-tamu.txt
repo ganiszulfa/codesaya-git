@@ -935,3 +935,11 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya: Nanook
+Github: Akirenaki
+Nama: Renee
+Website: [Opsional]
+Pesan: The hard problem of consciousness is the problem of explaining why any physical state is conscious rather than nonconscious.  It is the problem of explaining why there is “something it is like” for a subject in conscious experience, why conscious mental states “light up” and directly appear to the subject.  The usual methods of science involve explanation of functional, dynamical, and structural properties—explanation of what a thing does, how it changes over time, and how it is put together.  But even after we have explained the functional, dynamical, and structural properties of the conscious mind, we can still meaningfully ask the question, Why is it conscious? This suggests that an explanation of consciousness will have to go beyond the usual methods of science.  Consciousness therefore presents a hard problem for science, or perhaps it marks the limits of what science can explain.  Explaining why consciousness occurs at all can be contrasted with so-called “easy problems” of consciousness:  the problems of explaining the function, dynamics, and structure of consciousness.  These features can be explained using the usual methods of science.  But that leaves the question of why there is something it is like for the subject when these functions, dynamics, and structures are present.  This is the hard problem.
+
