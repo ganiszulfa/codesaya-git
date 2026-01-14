@@ -860,6 +860,15 @@ Website: -
 Pesan: Perbanyak bahasa pemrograman. Terima kasih.
 
 Entry: 121
+CodeSaya: shintiaputriii
+Github: shintiaps
+Nama: Shintia Putri
+Website: -
+Pesan: Terima kasih.
+
+
+
+Entry: 121
 CodeSaya: febriantonugroho
 Github: febriantonugroho
 Nama: Febrianto Nugroho
